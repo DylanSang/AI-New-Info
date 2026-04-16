@@ -4,19 +4,21 @@ import json
 import sqlite3
 from pathlib import Path
 from datetime import datetime, timezone
+from typing import Dict, List
 
 import pandas as pd
 import pydeck as pdk
 import streamlit as st
 from geopy.geocoders import Nominatim
+from deep_translator import GoogleTranslator
 
 
 st.set_page_config(page_title="Global Intel Dashboard", layout="wide")
 if "lang" not in st.session_state:
-    st.session_state.lang = "zh"
+    st.session_state.lang = "zh-CN"
 
 I18N = {
-    "zh": {
+    "zh-CN": {
         "title": "Global Intel Dashboard",
         "settings": "Settings",
         "toggle_lang": "切换语言 / Switch Language",
@@ -37,6 +39,17 @@ I18N = {
         "timeline": "时间轴",
         "db_empty": "当前数据库无事件，请先执行 `python main.py`。",
         "time_window": "时间窗口（用于地图动态化）",
+        "search": "搜索",
+        "keyword_search": "关键词搜索",
+        "date_search": "日期搜索",
+        "translation": "翻译",
+        "translated_title": "翻译标题",
+        "original_title": "原始标题",
+        "search_placeholder": "输入关键词搜索...",
+        "start_date": "开始日期",
+        "end_date": "结束日期",
+        "enhanced_timeline": "增强时间轴",
+        "related_events": "相关事件",
     },
     "en": {
         "title": "Global Intel Dashboard",
@@ -59,12 +72,89 @@ I18N = {
         "timeline": "Timeline",
         "db_empty": "No events in DB. Run `python main.py` first.",
         "time_window": "Time Window (map animation)",
+        "search": "Search",
+        "keyword_search": "Keyword Search",
+        "date_search": "Date Search",
+        "translation": "Translation",
+        "translated_title": "Translated Title",
+        "original_title": "Original Title",
+        "search_placeholder": "Enter keywords to search...",
+        "start_date": "Start Date",
+        "end_date": "End Date",
+        "enhanced_timeline": "Enhanced Timeline",
+        "related_events": "Related Events",
     },
 }
 
 t = I18N[st.session_state.lang]
 st.title(t["title"])
 GEO_CACHE_PATH = Path("geo_cache.json")
+
+# Track translation availability
+if "translation_available" not in st.session_state:
+    st.session_state.translation_available = True
+
+@st.cache_data(show_spinner=False)
+def translate_text(text: str, target_lang: str) -> str:
+    """Translate text to target language"""
+    if not st.session_state.translation_available:
+        return text
+        
+    try:
+        if not text or text.strip() == "":
+            return text
+        
+        # Skip translation if already in target language
+        if (target_lang == "zh-CN" and any('\u4e00' <= char <= '\u9fff' for char in text)) or \
+           (target_lang == "en" and text.replace(' ', '').isascii()):
+            return text
+            
+        translator = GoogleTranslator(source='auto', target=target_lang)
+        result = translator.translate(text)
+        return result
+    except Exception as e:
+        # Network error or other translation failure - mark as unavailable and return original text
+        st.session_state.translation_available = False
+        st.error(f"Translation unavailable: Cannot connect to translation service. Showing original text.")
+        return text
+
+def find_related_events(df: pd.DataFrame, current_event: str, category: str, country: str, threshold: int = 3) -> pd.DataFrame:
+    """Find events related to the current event based on category, country, and keyword similarity"""
+    related = df.copy()
+    
+    # Filter by same category or country
+    if category and category != "all":
+        related = related[related["category"] == category]
+    if country and country != "all":
+        related = related[related["country"] == country]
+    
+    # Remove the current event
+    related = related[related["title"] != current_event]
+    
+    # Simple keyword matching (can be enhanced with more sophisticated NLP)
+    current_words = set(current_event.lower().split())
+    related["similarity_score"] = related["title"].apply(
+        lambda x: len(set(x.lower().split()) & current_words)
+    )
+    
+    # Return top related events
+    return related.nlargest(threshold, "similarity_score")
+
+def create_enhanced_timeline(timeline: List[Dict], related_events_df: pd.DataFrame) -> List[Dict]:
+    """Create enhanced timeline with related events"""
+    enhanced_timeline = timeline.copy()
+    
+    # Add related events to timeline
+    for _, event in related_events_df.iterrows():
+        event_timeline = json.loads(event["timeline_json"] or "[]")
+        for point in event_timeline:
+            point["related_event"] = event["title"]
+            enhanced_timeline.append(point)
+    
+    # Sort by date
+    enhanced_timeline.sort(key=lambda x: x.get("published_at", ""))
+    
+    return enhanced_timeline
 
 
 @st.cache_data(show_spinner=False)
@@ -177,7 +267,7 @@ if df.empty:
 with st.expander(t["settings"], expanded=True):
     st.caption(f'{t["lang_label"]}: {st.session_state.lang.upper()}')
     if st.button(t["toggle_lang"]):
-        st.session_state.lang = "en" if st.session_state.lang == "zh" else "zh"
+        st.session_state.lang = "en" if st.session_state.lang == "zh-CN" else "zh-CN"
         st.rerun()
     center_options = {
         "China / 中国": (35.8, 104.2, 2.4),
@@ -198,6 +288,16 @@ with col2:
 with col3:
     min_score = st.slider(t["min_score"], 0, 100, 0)
 
+# Search functionality
+st.subheader(t["search"])
+search_col1, search_col2, search_col3 = st.columns(3)
+with search_col1:
+    keyword = st.text_input(t["keyword_search"], placeholder=t["search_placeholder"])
+with search_col2:
+    start_date = st.date_input(t["start_date"])
+with search_col3:
+    end_date = st.date_input(t["end_date"])
+
 filtered = df.copy()
 if selected_category != "all":
     filtered = filtered[filtered["category"] == selected_category]
@@ -205,13 +305,64 @@ if selected_country != "all":
     filtered = filtered[filtered["country"] == selected_country]
 filtered = filtered[filtered["impact_score"] >= min_score]
 
+# Apply search filters
+if keyword:
+    filtered = filtered[filtered["title"].str.contains(keyword, case=False, na=False)]
+
+if start_date or end_date:
+    filtered["timeline_data"] = filtered["timeline_json"].apply(lambda x: json.loads(x or "[]"))
+    
+    if start_date:
+        start_date_str = start_date.strftime("%Y-%m-%d")
+        filtered = filtered[
+            filtered["timeline_data"].apply(
+                lambda timeline: any(
+                    point.get("published_at", "").startswith(start_date_str) 
+                    for point in timeline
+                )
+            )
+        ]
+    
+    if end_date:
+        end_date_str = end_date.strftime("%Y-%m-%d")
+        filtered = filtered[
+            filtered["timeline_data"].apply(
+                lambda timeline: any(
+                    point.get("published_at", "").startswith(end_date_str) 
+                    for point in timeline
+                )
+            )
+        ]
+    
+    filtered = filtered.drop("timeline_data", axis=1)
+
 st.subheader(t["list"])
-st.dataframe(
-    filtered[
-        ["title", "category", "country", "impact_score", "risk_level", "credibility", "source_count"]
-    ],
-    use_container_width=True,
-)
+
+# Add translation toggle (only show if translation is available)
+show_translation = False
+if st.session_state.translation_available:
+    show_translation = st.checkbox(t["translation"])
+else:
+    st.info("Translation service unavailable due to network restrictions")
+
+# Prepare display data
+display_df = filtered[
+    ["title", "category", "country", "impact_score", "risk_level", "credibility", "source_count"]
+].copy()
+
+if show_translation:
+    target_lang = st.session_state.lang
+    with st.spinner(t["translation"] + "..."):
+        display_df[t["translated_title"]] = display_df["title"].apply(
+            lambda x: translate_text(x, target_lang)
+        )
+    
+    # Reorder columns to show translation
+    cols = [t["translated_title"], t["original_title"]] if st.session_state.lang == "zh" else [t["translated_title"], t["original_title"]]
+    display_df = display_df.rename(columns={"title": t["original_title"]})
+    display_df = display_df[[cols[0], cols[1], "category", "country", "impact_score", "risk_level", "credibility", "source_count"]]
+
+st.dataframe(display_df, use_container_width=True)
 
 st.subheader(t["map_title"])
 geo_cache = _load_geo_cache()
@@ -274,12 +425,49 @@ selected_row = filtered[filtered["title"] == selected_title].iloc[0]
 
 timeline = json.loads(selected_row["timeline_json"] or "[]")
 sources = json.loads(selected_row["sources_json"] or "[]")
-st.write(
-    f"**{t['source_count']}**: {selected_row['source_count']} | "
-    f"**{t['credibility']}**: {selected_row['credibility']} | "
-    f"**{t['impact']}**: {selected_row['impact_score']}"
+
+# Find related events
+related_events = find_related_events(
+    df, selected_title, 
+    selected_row["category"], 
+    selected_row["country"]
 )
+
+# Display event details with translation option
+col1, col2 = st.columns(2)
+with col1:
+    st.write(f"**{t['original_title']}**: {selected_title}")
+    if show_translation:
+        target_lang = st.session_state.lang
+        translated_title = translate_text(selected_title, target_lang)
+        st.write(f"**{t['translated_title']}**: {translated_title}")
+
+with col2:
+    st.write(
+        f"**{t['source_count']}**: {selected_row['source_count']} | "
+        f"**{t['credibility']}**: {selected_row['credibility']} | "
+        f"**{t['impact']}**: {selected_row['impact_score']}"
+    )
+
 st.write(f"**{t['sources']}**:", ", ".join(sources))
-st.write(f"**{t['timeline']}**")
-for point in timeline:
-    st.write(f"- {point.get('published_at')} | {point.get('source_name')} | {point.get('article_url')}")
+
+# Enhanced timeline
+st.subheader(t["enhanced_timeline"])
+enhanced_timeline = create_enhanced_timeline(timeline, related_events)
+
+for point in enhanced_timeline:
+    event_info = f" | **{t['related_events']}**: {point.get('related_event', '')}" if point.get('related_event') else ""
+    st.write(f"- {point.get('published_at')} | {point.get('source_name')} | {point.get('article_url')}{event_info}")
+
+# Show related events section
+if not related_events.empty:
+    st.subheader(t["related_events"])
+    for _, event in related_events.iterrows():
+        with st.expander(f"{event['title']} (Score: {event['impact_score']})"):
+            st.write(f"**Category**: {event['category']}")
+            st.write(f"**Country**: {event['country']}")
+            st.write(f"**Impact Score**: {event['impact_score']}")
+            if show_translation:
+                target_lang = st.session_state.lang
+                translated = translate_text(event['title'], target_lang)
+                st.write(f"**{t['translated_title']}**: {translated}")

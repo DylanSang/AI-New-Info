@@ -9,3 +9,4 @@ streamlit
 pandas
 pydeck
 geopy
+deep-translator
