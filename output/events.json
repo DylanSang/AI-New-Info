@@ -1,0 +1,4497 @@
+[
+  {
+    "event_id": "abb090b151925e0d462a3150db1e6c0b",
+    "title": "White House offers no hint of Iran war cost as it seeks military funding surge",
+    "category": "military",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 66.22,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-16T00:52:33+00:00",
+        "source_name": "Defense News",
+        "article_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/16/white-house-offers-no-hint-of-iran-war-cost-as-it-seeks-military-funding-surge/",
+        "content": "\"I don't have a ballpark,\" White House budget director Russell Vought told lawmakers Wednesday about the cost of the Iran war."
+      }
+    ],
+    "sources": [
+      "Defense News (global)"
+    ]
+  },
+  {
+    "event_id": "9721baa54ed6abd6dc97af45c8f97a1d",
+    "title": "US blockade of Iran will be major military endeavor, experts say",
+    "category": "military",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 66.22,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-13T12:42:14+00:00",
+        "source_name": "Defense News",
+        "article_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/13/us-blockade-of-iran-will-be-major-military-endeavor-experts-say/",
+        "content": "The U.S. military has not offered basic details yet about the blockade, including how many U.S. warships will enforce it."
+      }
+    ],
+    "sources": [
+      "Defense News (global)"
+    ]
+  },
+  {
+    "event_id": "d63f16d077bc12cab774ee5403fddaf0",
+    "title": "UK’s Starmer and Trump discussed military options for Strait of Hormuz",
+    "category": "military",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 66.22,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-10T11:49:33+00:00",
+        "source_name": "Defense News",
+        "article_url": "https://www.defensenews.com/global/europe/2026/04/10/uks-starmer-and-trump-discussed-military-options-for-strait-of-hormuz/",
+        "content": "French President Emmanuel Macron also has raised the possibility of Europeans securing the crucial waterway, but only after the war ends."
+      }
+    ],
+    "sources": [
+      "Defense News (global)"
+    ]
+  },
+  {
+    "event_id": "25f09649eb39b6bc9833fc3dc31f9441",
+    "title": "MIDDLE EAST LIVE 14 April: UN chief says US-Iran ceasefire must continue, urges respect for international law",
+    "category": "politics",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 65.72,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-14T12:00:00+00:00",
+        "source_name": "UN News",
+        "article_url": "https://news.un.org/feed/view/en/story/2026/04/1167294",
+        "content": "Respect for international law is being “trampled” the UN chief warned on Tuesday, urging further negotiations between the US and Iran over ending the war and extending the fragile ceasefire as needed. Saying “there is no military solution,” he called for international navigation rights to be restored in the Strait of Hormuz. Meanwhile, a regional humanitarian crisis continues. Stay with us for live updates. App users can follow coverage here."
+      }
+    ],
+    "sources": [
+      "UN News (global)"
+    ]
+  },
+  {
+    "event_id": "c892dca12d2feebd931f289dcbb3e132",
+    "title": "US-Iran war: Guterres calls for continued talks, end to ceasefire violations",
+    "category": "politics",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 65.72,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-13T12:00:00+00:00",
+        "source_name": "UN News",
+        "article_url": "https://news.un.org/feed/view/en/story/2026/04/1167292",
+        "content": "The United States and Iran must continue talks aimed at ending their weeks-long war, UN Secretary-General António Guterres said on Monday, underscoring that there is no military solution to the conflict."
+      }
+    ],
+    "sources": [
+      "UN News (global)"
+    ]
+  },
+  {
+    "event_id": "2ac632a489d8547bf3bdaeb66028ae54",
+    "title": "MIDDLE EAST LIVE 10 April: Fear and uncertainty grow in Lebanon as conflict grinds on",
+    "category": "politics",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 65.72,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-10T12:00:00+00:00",
+        "source_name": "UN News",
+        "article_url": "https://news.un.org/feed/view/en/story/2026/04/1167279",
+        "content": "Fighting continues across parts of the Middle East, with renewed exchanges between Israel and Hezbollah in Lebanon. Humanitarian needs are deepening, with rising civilian casualties, mounting displacement and growing strain on services. Diplomatic efforts continue with high stakes negotiations due to start Saturday between the US and Iran over the faltering ceasefire deal. Lebanon is an active war zone and the Strait of Hormuz is still effectively closed. Stay with us for live updates. App users can follow coverage here."
+      }
+    ],
+    "sources": [
+      "UN News (global)"
+    ]
+  },
+  {
+    "event_id": "dff7e4f6cceba00869b26ad258e05930",
+    "title": "LinkedIn data shows AI isn’t to blame for hiring decline… yet",
+    "category": "technology",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 63.72,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-15T18:51:54+00:00",
+        "source_name": "TechCrunch",
+        "article_url": "https://techcrunch.com/2026/04/15/linkedin-data-shows-ai-isnt-to-blame-for-hiring-decline-yet/",
+        "content": "LinkedIn says hiring is down 20% since 2022, but blames higher interest rates — not AI — for the slowdown."
+      }
+    ],
+    "sources": [
+      "TechCrunch (global)"
+    ]
+  },
+  {
+    "event_id": "b40fbc5531d424deddc4303526afb058",
+    "title": "Can AI judge journalism? A Thiel-backed startup says yes, even if it risks chilling whistleblowers",
+    "category": "technology",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 63.72,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-15T18:33:20+00:00",
+        "source_name": "TechCrunch",
+        "article_url": "https://techcrunch.com/2026/04/15/can-ai-judge-journalism-a-thiel-backed-startup-says-yes-even-if-it-risks-chilling-whistleblowers/",
+        "content": "Objection, a Thiel-backed startup, aims to use AI to judge journalism, letting users pay to challenge stories. Critics warn it could chill whistleblowers and reshape how media accountability works."
+      }
+    ],
+    "sources": [
+      "TechCrunch (global)"
+    ]
+  },
+  {
+    "event_id": "93f1b9b0b5124387f110aa5708b8d389",
+    "title": "India’s vibe-coding startup Emergent enters OpenClaw-like AI agent space",
+    "category": "technology",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 63.72,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-15T17:24:18+00:00",
+        "source_name": "TechCrunch",
+        "article_url": "https://techcrunch.com/2026/04/15/indias-vibe-coding-startup-emergent-enters-openclaw-like-ai-agent-space/",
+        "content": "Emergent's Wingman lets users manage and automate tasks through chat on platforms like WhatsApp and Telegram."
+      }
+    ],
+    "sources": [
+      "TechCrunch (global)"
+    ]
+  },
+  {
+    "event_id": "57b15ad4453e7daa29a55955a3daa803",
+    "title": "Sweden blames Russian hackers for attempting ‘destructive’ cyberattack on thermal plant",
+    "category": "technology",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 63.72,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-15T14:21:39+00:00",
+        "source_name": "TechCrunch",
+        "article_url": "https://techcrunch.com/2026/04/15/sweden-blames-russian-hackers-for-attempting-destructive-cyberattack-on-thermal-plant/",
+        "content": "Sweden's minister for civil defense said Russian hackers are \"now attempting destructive cyber attacks against organizations in Europe.\""
+      }
+    ],
+    "sources": [
+      "TechCrunch (global)"
+    ]
+  },
+  {
+    "event_id": "37cb29eb13b2739c76ea193bbd44ed8e",
+    "title": "France puts mobile corps command to the test in major war scenario",
+    "category": "military",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 63.72,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-15T15:59:11+00:00",
+        "source_name": "Defense News",
+        "article_url": "https://www.defensenews.com/global/europe/2026/04/15/france-puts-mobile-corps-command-to-the-test-in-major-war-scenario/",
+        "content": "The small forward command post lets commanders “be in contact with the divisions, to be as close as possible to the engagement zone,” said a top general."
+      }
+    ],
+    "sources": [
+      "Defense News (global)"
+    ]
+  },
+  {
+    "event_id": "90ffe7d6cda32ca927519b4bea0efb68",
+    "title": "Amid focus on Strait of Hormuz, experts sound warning on Yemen’s Houthis and Red Sea",
+    "category": "military",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 63.72,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-14T22:04:37+00:00",
+        "source_name": "Defense News",
+        "article_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/14/amid-focus-on-strait-of-hormuz-experts-sound-warning-on-yemens-houthis-and-red-sea/",
+        "content": "Foreign policy experts warn that the strait is not the only potential choke point that Iran and its proxies could leverage amid the war."
+      }
+    ],
+    "sources": [
+      "Defense News (global)"
+    ]
+  },
+  {
+    "event_id": "febc5c8558a12f2e7ddaf07fdcffea62",
+    "title": "Lebanon and Israel talks set to begin in Washington",
+    "category": "military",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 63.72,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-14T12:15:29+00:00",
+        "source_name": "Defense News",
+        "article_url": "https://www.defensenews.com/global/mideast-africa/2026/04/14/lebanon-and-israel-talks-set-to-begin-in-washington/",
+        "content": "The talks mark a rare diplomatic engagement between two parties technically at war since 1948."
+      }
+    ],
+    "sources": [
+      "Defense News (global)"
+    ]
+  },
+  {
+    "event_id": "ceca4034a3748c507f68822d7fae84c9",
+    "title": "Turkey pushes for larger role in Europe’s defense as Trump questions NATO",
+    "category": "military",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 63.72,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-13T13:49:26+00:00",
+        "source_name": "Defense News",
+        "article_url": "https://www.defensenews.com/global/europe/2026/04/13/turkey-pushes-for-larger-role-in-europes-defense-as-trump-questions-nato/",
+        "content": "Shutting out Ankara from EU defense initiatives would cause more damage than the U.S. pulling troops from the continent, warned Turkey's defense minister."
+      }
+    ],
+    "sources": [
+      "Defense News (global)"
+    ]
+  },
+  {
+    "event_id": "a3bd8688f6379bed2a701a44ef667a82",
+    "title": "The president who threatened to end a civilization is supposed to guarantee Ukraine’s survival",
+    "category": "military",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 63.72,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-10T23:39:44+00:00",
+        "source_name": "Defense News",
+        "article_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/10/the-president-who-threatened-to-end-a-civilization-is-supposed-to-guarantee-ukraines-survival/",
+        "content": "Trump's Iran war has diverted diplomats and drained interceptor stockpiles — just as his envoys were supposed to deliver security guarantees to Kyiv."
+      }
+    ],
+    "sources": [
+      "Defense News (global)"
+    ]
+  },
+  {
+    "event_id": "d7bb1d42d0417f3b0efa66df7a1dfaca",
+    "title": "Trump weighs pulling some US troops from Europe amid NATO strains, official says",
+    "category": "military",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 63.72,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-09T23:00:00+00:00",
+        "source_name": "Defense News",
+        "article_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/09/trump-weighs-pulling-some-us-troops-from-europe-amid-nato-strains-official-says/",
+        "content": "U.S. President Donald Trump has discussed with advisers the option of removing some U.S. troops from Europe, a senior White House official told Reuters."
+      }
+    ],
+    "sources": [
+      "Defense News (global)"
+    ]
+  },
+  {
+    "event_id": "9a2ef19467ad838f1a84496e09e03009",
+    "title": "Trump again chides NATO for failing to back US operations in Iran",
+    "category": "military",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 63.72,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-09T21:15:47+00:00",
+        "source_name": "Defense News",
+        "article_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/09/trump-again-chides-nato-for-failing-to-back-us-operations-in-iran/",
+        "content": "The president's remarks came just a day after a tense private meeting with the alliance's Secretary General Mark Rutte at the White House."
+      }
+    ],
+    "sources": [
+      "Defense News (global)"
+    ]
+  },
+  {
+    "event_id": "02dd27e879fe61baea30472fee321ebc",
+    "title": "UK says it deployed military to deter Russian submarines from attack on undersea cables",
+    "category": "military",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 63.72,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-09T14:55:55+00:00",
+        "source_name": "Defense News",
+        "article_url": "https://www.defensenews.com/global/europe/2026/04/09/uk-says-it-deployed-military-to-deter-russian-submarines-from-attack-on-undersea-cables/",
+        "content": "Norway’s defense ministry said its armed forces had also deployed a P-8 maritime patrol aircraft and a frigate."
+      }
+    ],
+    "sources": [
+      "Defense News (global)"
+    ]
+  },
+  {
+    "event_id": "be854568583e593cfdeb665f5ca40c51",
+    "title": "MIDDLE EAST LIVE 15 April: Civilian dangers intensify as Israel expands Lebanon evacuation orders",
+    "category": "politics",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 63.22,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-15T12:00:00+00:00",
+        "source_name": "UN News",
+        "article_url": "https://news.un.org/feed/view/en/story/2026/04/1167302",
+        "content": "Across the Middle East, tensions remain high with Israeli military operations continuing in Lebanon following direct talks between the two governments in Washington on Tuesday. More than 2,000 Lebanese have been reported killed since early March. Uncertainty also continues over the crucial Strait of Hormuz crisis. Stay with us for live updates on developments on the ground, humanitarian impacts and diplomatic efforts. App users can follow coverage here."
+      }
+    ],
+    "sources": [
+      "UN News (global)"
+    ]
+  },
+  {
+    "event_id": "afb1516d58b99b54ddd1c01580431e99",
+    "title": "Yemenis are ‘hanging by a thread’ top aid official warns Security Council",
+    "category": "politics",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 63.22,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-14T12:00:00+00:00",
+        "source_name": "UN News",
+        "article_url": "https://news.un.org/feed/view/en/story/2026/04/1167300",
+        "content": "Yemen must not be drawn into the escalating conflict in the Middle East, the Security Council heard on Tuesday, stressing the need for de-escalation, political progress and urgent humanitarian funding for beleaguered civilians battered by years of grinding war."
+      }
+    ],
+    "sources": [
+      "UN News (global)"
+    ]
+  },
+  {
+    "event_id": "fced119ccd52b8290a50d40558e3786a",
+    "title": "Sudan: Top UN aid official warns of ‘abandoned crisis’ as war enters fourth year",
+    "category": "politics",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 63.22,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-13T12:00:00+00:00",
+        "source_name": "UN News",
+        "article_url": "https://news.un.org/feed/view/en/story/2026/04/1167293",
+        "content": "As Sudan’s war moves into a fourth year, civilians are still being killed, displaced and subjected to widespread sexual violence, the UN’s top humanitarian official in the country warned on Monday, calling for urgent action to stop the fighting and protect civilians."
+      }
+    ],
+    "sources": [
+      "UN News (global)"
+    ]
+  },
+  {
+    "event_id": "7a12ba66ff9f39dfe40ca51b5efec171",
+    "title": "From conflict to catwalk: Women ex-combatants weave reconciliation in Colombia",
+    "category": "politics",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 63.22,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-12T12:00:00+00:00",
+        "source_name": "UN News",
+        "article_url": "https://news.un.org/feed/view/en/story/2026/04/1167269",
+        "content": "Katerine Avella is a former combatant in Colombia’s decades-long civil war, a peace signatory and a community leader. After the guns fell silent, she created the fashion brand Ixora but, with violence returning to the region, Ms. Avella is now focusing on trying to keep the project afloat in the face of new challenges."
+      }
+    ],
+    "sources": [
+      "UN News (global)"
+    ]
+  },
+  {
+    "event_id": "7cd9846e06ff1a0987adf55ac8737112",
+    "title": "Kosovo mission head warns ‘mistrust’ threatens post-election stability",
+    "category": "politics",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 63.22,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-09T12:00:00+00:00",
+        "source_name": "UN News",
+        "article_url": "https://news.un.org/feed/view/en/story/2026/04/1167278",
+        "content": "Despite successful legislative elections in Kosovo late last year, a “delicate equilibrium” persists as deep divisions remain over the future of the United Nations presence in the region."
+      }
+    ],
+    "sources": [
+      "UN News (global)"
+    ]
+  },
+  {
+    "event_id": "5d2c73fdd6711ac7ab19f2558ec27adc",
+    "title": "Amazon-backed X-energy files to raise up to $800M in IPO",
+    "category": "technology",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 61.22,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-15T22:44:26+00:00",
+        "source_name": "TechCrunch",
+        "article_url": "https://techcrunch.com/2026/04/15/amazon-backed-x-energy-files-to-raise-up-to-800m-in-ipo/",
+        "content": "Nuclear startup X-energy hit the road today to sell prospective investors on its initial public offering."
+      }
+    ],
+    "sources": [
+      "TechCrunch (global)"
+    ]
+  },
+  {
+    "event_id": "3732302c07e619994898b38884aa6fb7",
+    "title": "Wait, could they still actually break up Live Nation?",
+    "category": "technology",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 61.22,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-15T21:38:09+00:00",
+        "source_name": "TechCrunch",
+        "article_url": "https://techcrunch.com/2026/04/15/wait-could-they-still-actually-break-up-live-nation/",
+        "content": "A federal jury found that Live Nation has acted illegally as a monopoly -- but the company just came to a tentative settlement with the DOJ last month."
+      }
+    ],
+    "sources": [
+      "TechCrunch (global)"
+    ]
+  },
+  {
+    "event_id": "7f89af0fe7d47d27e7de022b4417cbf1",
+    "title": "Monarch Tractor’s collapse ends with an acquisition by Caterpillar",
+    "category": "technology",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 61.22,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-15T21:05:21+00:00",
+        "source_name": "TechCrunch",
+        "article_url": "https://techcrunch.com/2026/04/15/monarch-tractors-collapse-ends-in-with-an-acquisition-by-caterpillar/",
+        "content": "The startup had faced mounting pressure from dealers, farmers, and a co-founder who complained that Monarch's tech didn't work properly."
+      }
+    ],
+    "sources": [
+      "TechCrunch (global)"
+    ]
+  },
+  {
+    "event_id": "7e832db9036c2711f14481f6a74292f1",
+    "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
+    "category": "technology",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 61.22,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-15T19:28:36+00:00",
+        "source_name": "TechCrunch",
+        "article_url": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
+        "content": "OpenAI has expanded the capabilities of its agent-building toolkit, as agentic AI continues to grow in popularity."
+      }
+    ],
+    "sources": [
+      "TechCrunch (global)"
+    ]
+  },
+  {
+    "event_id": "88c9b75f080e6a0cfe7500353db86607",
+    "title": "Hightouch reaches $100M ARR fueled by marketing tools powered by AI",
+    "category": "technology",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 61.22,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-15T18:55:12+00:00",
+        "source_name": "TechCrunch",
+        "article_url": "https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/",
+        "content": "The startup says it grew its ARR by $70 million in just 20 months after launching an AI agent platform for marketers."
+      }
+    ],
+    "sources": [
+      "TechCrunch (global)"
+    ]
+  },
+  {
+    "event_id": "bb2bff9b49350bd9eb7249030ce281ac",
+    "title": "Feds will require data centers to show their power bills",
+    "category": "technology",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 61.22,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-15T18:50:48+00:00",
+        "source_name": "TechCrunch",
+        "article_url": "https://techcrunch.com/2026/04/15/feds-will-require-data-centers-to-show-their-power-bills/",
+        "content": "In a first, the U.S. Energy Information Agency said it will require data centers to disclose details of their energy use."
+      }
+    ],
+    "sources": [
+      "TechCrunch (global)"
+    ]
+  },
+  {
+    "event_id": "de03d552ce9355704a0977447dbe43b1",
+    "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
+    "category": "technology",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 61.22,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-15T18:38:10+00:00",
+        "source_name": "TechCrunch",
+        "article_url": "https://techcrunch.com/2026/04/15/ai-learning-app-gizmo-levels-up-with-13m-users-and-a-22m-investment/",
+        "content": "Gizmo, an AI-powered learning platform, has attracted more than 13 million users and just secured $22 million in Series A funding."
+      }
+    ],
+    "sources": [
+      "TechCrunch (global)"
+    ]
+  },
+  {
+    "event_id": "ed3fe440949176a4c196594718abef82",
+    "title": "This Khosla-backed autonomous pod startup just raised $170M — now it’s aiming for more",
+    "category": "technology",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 61.22,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-15T17:46:28+00:00",
+        "source_name": "TechCrunch",
+        "article_url": "https://techcrunch.com/2026/04/15/this-khosla-backed-autonomous-pod-startup-just-raised-170m-now-its-aiming-for-more/",
+        "content": "Glydways is in talks to raise another $250 million as it prepares to launch three pilot programs."
+      }
+    ],
+    "sources": [
+      "TechCrunch (global)"
+    ]
+  },
+  {
+    "event_id": "d0f389939a19e2cf6a34ca64561a9376",
+    "title": "Accel raises $5B to back late-stage bets",
+    "category": "technology",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 61.22,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-15T17:37:56+00:00",
+        "source_name": "TechCrunch",
+        "article_url": "https://techcrunch.com/2026/04/15/accel-raises-5b-to-back-late-stage-bets/",
+        "content": "Accel announced on Tuesday that it raised $5 billion in fresh capital to back late-stage companies building AI."
+      }
+    ],
+    "sources": [
+      "TechCrunch (global)"
+    ]
+  },
+  {
+    "event_id": "e6641d3853b38dcb47a2ac2bb2e0ecc4",
+    "title": "Anthropic shrugs off VC funding offers valuing it at $800B+, for now",
+    "category": "technology",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 61.22,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-15T16:21:21+00:00",
+        "source_name": "TechCrunch",
+        "article_url": "https://techcrunch.com/2026/04/15/anthropic-shrugs-off-vc-funding-offers-valuing-it-at-800b-for-now/",
+        "content": "VCs are frothing at the mouth to write more checks to Anthropic at a valuation that matches or beats OpenAI's."
+      }
+    ],
+    "sources": [
+      "TechCrunch (global)"
+    ]
+  },
+  {
+    "event_id": "9e148d37ab460abad7e1645862df1f3b",
+    "title": "Motorola sues social platforms and creators over posts, raising speech concerns in India",
+    "category": "technology",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 61.22,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-15T16:00:17+00:00",
+        "source_name": "TechCrunch",
+        "article_url": "https://techcrunch.com/2026/04/15/motorola-sues-social-platforms-and-creators-over-posts-raising-speech-concerns-in-india/",
+        "content": "Motorola has sought a permanent injunction restraining the defendants from publishing or sharing what it describes as false or defamatory content about its products, including reviews, videos, comments, and boycott campaigns."
+      }
+    ],
+    "sources": [
+      "TechCrunch (global)"
+    ]
+  },
+  {
+    "event_id": "45216676ddbc59874f52088ccc2fb663",
+    "title": "Airwallex is about to take on Stripe and the rest of the payments industry — in the physical world",
+    "category": "technology",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 61.22,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-15T16:00:00+00:00",
+        "source_name": "TechCrunch",
+        "article_url": "https://techcrunch.com/2026/04/15/airwallex-is-about-to-take-on-stripe-and-the-rest-of-the-payments-industry-in-the-physical-world/",
+        "content": "Airwallex, valued at $8 billion, is launching a point-of-sale product that lets businesses accept in-person payments in multiple countries via a single platform."
+      }
+    ],
+    "sources": [
+      "TechCrunch (global)"
+    ]
+  },
+  {
+    "event_id": "8e690c6d8e97eed5401226f6083547a5",
+    "title": "After sale of its shoe business, Allbirds pivots to AI",
+    "category": "technology",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 61.22,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-15T14:24:31+00:00",
+        "source_name": "TechCrunch",
+        "article_url": "https://techcrunch.com/2026/04/15/after-sale-of-its-shoe-business-allbirds-pivots-to-ai/",
+        "content": "Allbirds is ditching wool sneakers for AI servers, rebranding as NewBird AI after locking in a $50M convertible financing facility."
+      }
+    ],
+    "sources": [
+      "TechCrunch (global)"
+    ]
+  },
+  {
+    "event_id": "d9ba839b7886a8a995e045a5f87d3633",
+    "title": "Senate Republicans back Trump military sales to Israel",
+    "category": "military",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 61.22,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-16T01:25:07+00:00",
+        "source_name": "Defense News",
+        "article_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/16/senate-republicans-back-trump-military-sales-to-israel/",
+        "content": "The Senate on Wednesday blocked two resolutions that would have stopped the sale of some $450 million in bombs and bulldozers to Israel."
+      }
+    ],
+    "sources": [
+      "Defense News (global)"
+    ]
+  },
+  {
+    "event_id": "1703d1cfc2241182fe0db1ba763f266b",
+    "title": "Berlin gets a front-row seat to German weapons’ performance in Ukraine",
+    "category": "military",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 61.22,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-15T13:36:28+00:00",
+        "source_name": "Defense News",
+        "article_url": "https://www.defensenews.com/global/europe/2026/04/15/berlin-gets-a-front-row-seat-to-german-weapons-performance-in-ukraine/",
+        "content": "A new bilateral agreement covers data sharing from engagements of the Panzerhaubitze 2000, RCH-155 artillery and the IRIS-T air-defense weapon."
+      }
+    ],
+    "sources": [
+      "Defense News (global)"
+    ]
+  },
+  {
+    "event_id": "935c614155496b0b2e6edd42e509832e",
+    "title": "Rattled by Trump, US allies eye Japan’s biggest arms opening since WWII",
+    "category": "military",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 61.22,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-15T13:25:29+00:00",
+        "source_name": "Defense News",
+        "article_url": "https://www.defensenews.com/industry/2026/04/15/rattled-by-trump-us-allies-eye-japans-biggest-arms-opening-since-wwii/",
+        "content": "Japan’s imminent easing of arms export rules has sparked strong interest from Warsaw to Manila."
+      }
+    ],
+    "sources": [
+      "Defense News (global)"
+    ]
+  },
+  {
+    "event_id": "e06c23d48537b605710fb8d26d93f672",
+    "title": "Estonia raids combat-vehicle funds to buy more drones, air defenses",
+    "category": "military",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 61.22,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-15T12:29:42+00:00",
+        "source_name": "Defense News",
+        "article_url": "https://www.defensenews.com/global/europe/2026/04/15/estonia-raids-combat-vehicle-funds-to-buy-more-drones-air-defenses/",
+        "content": "The defense minister said the decision was based on lessons learned from Russia's invasion of Ukraine."
+      }
+    ],
+    "sources": [
+      "Defense News (global)"
+    ]
+  },
+  {
+    "event_id": "0458f0ed637819483ddd1d90d26b5aaa",
+    "title": "Study suggests Russia could conquer Baltic states in 90 days",
+    "category": "military",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 61.22,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-13T10:07:40+00:00",
+        "source_name": "Defense News",
+        "article_url": "https://www.defensenews.com/global/europe/2026/04/13/study-suggests-russia-could-conquer-baltic-states-in-90-days/",
+        "content": "Opinions among officials and analysts vary greatly when it comes to Russia’s perceived appetite for attacking the Baltic nations, which are part of NATO."
+      }
+    ],
+    "sources": [
+      "Defense News (global)"
+    ]
+  },
+  {
+    "event_id": "d7e08ecef119bbb0e3fb36aa20231068",
+    "title": "US Navy to blockade Strait of Hormuz ‘effective immediately,’ Trump says",
+    "category": "military",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 61.22,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-12T14:58:14+00:00",
+        "source_name": "Defense News",
+        "article_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/12/us-navy-to-blockade-strait-of-hormuz-effective-immediately-trump-says/",
+        "content": "“Any Iranian who fires at us, or at peaceful vessels, will be BLOWN TO HELL!” the president wrote on Sunday."
+      }
+    ],
+    "sources": [
+      "Defense News (global)"
+    ]
+  },
+  {
+    "event_id": "197325fc9b874d69cd93761163c32931",
+    "title": "US-Iran peace talks end without deal as delegations leave Pakistan",
+    "category": "military",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 61.22,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-12T13:27:21+00:00",
+        "source_name": "Defense News",
+        "article_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/12/us-iran-peace-talks-end-without-deal-as-delegations-leave-pakistan/",
+        "content": "Each side blamed the other for the failure of the 21-hour negotiations to end fighting that has killed thousands and roiled the global economy."
+      }
+    ],
+    "sources": [
+      "Defense News (global)"
+    ]
+  },
+  {
+    "event_id": "aca3566f2c5a3df6ab0d4886aa284d30",
+    "title": "Italian government shakes up Leonardo leadership, replacing Cingolani as CEO",
+    "category": "military",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 61.22,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-10T15:03:17+00:00",
+        "source_name": "Defense News",
+        "article_url": "https://www.defensenews.com/global/europe/2026/04/10/italian-government-shakes-up-leonardo-leadership-replacing-cingolani-as-ceo/",
+        "content": "Some sources said Cingolani's focus on non-kinetic priorities may have led to the surprise move, with Lorenzo Mariani of MBDA taking over the top job."
+      }
+    ],
+    "sources": [
+      "Defense News (global)"
+    ]
+  },
+  {
+    "event_id": "3b4c8e4c63faff6c17611397167946db",
+    "title": "Ukrainian drone makers visit Paris looking for co-production deals",
+    "category": "military",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 61.22,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-10T14:44:17+00:00",
+        "source_name": "Defense News",
+        "article_url": "https://www.defensenews.com/global/europe/2026/04/10/ukrainian-drone-makers-visit-paris-looking-for-co-production-deals/",
+        "content": "“We come with our lessons learned,” Kamyshin said. “We offer a model which is definitely beneficial for your country, for your industry, for your economy.\""
+      }
+    ],
+    "sources": [
+      "Defense News (global)"
+    ]
+  },
+  {
+    "event_id": "bd70ef874d79a0bd4daeed31d759cc62",
+    "title": "Researchers propose ‘rewilding’ Europe’s borderlands to repel enemies",
+    "category": "military",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 61.22,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-09T12:26:55+00:00",
+        "source_name": "Defense News",
+        "article_url": "https://www.defensenews.com/global/europe/2026/04/09/researchers-propose-rewilding-europes-borderlands-to-repel-enemies/",
+        "content": "Restored wetlands and peat bogs can create natural barriers for invading forces while contributing to climate resilience, according to a new report."
+      }
+    ],
+    "sources": [
+      "Defense News (global)"
+    ]
+  },
+  {
+    "event_id": "e4fb9a70474fa1c2150caecf2fc852ca",
+    "title": "Strength in numbers: Developing countries band together as Iran war batters global economy",
+    "category": "politics",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 60.72,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-15T12:00:00+00:00",
+        "source_name": "UN News",
+        "article_url": "https://news.un.org/feed/view/en/story/2026/04/1167308",
+        "content": "Developing countries are banking on having a stronger voice in debt negotiations, following the launch of a new country-led borrowing initiative on Wednesday on the margins of the annual IMF-World Bank Spring Meetings."
+      }
+    ],
+    "sources": [
+      "UN News (global)"
+    ]
+  },
+  {
+    "event_id": "120077c1d921cb840553e6c6628e1f17",
+    "title": "‘Sudan is an atrocities laboratory’, UN aid chief tells Berlin conference",
+    "category": "politics",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 60.72,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-15T12:00:00+00:00",
+        "source_name": "UN News",
+        "article_url": "https://news.un.org/feed/view/en/story/2026/04/1167309",
+        "content": "Foreign ministers from across the world met in Berlin on Wednesday to show support for Sudan, where a fourth year of brutal warfare has begun as humanitarian needs deepen."
+      }
+    ],
+    "sources": [
+      "UN News (global)"
+    ]
+  },
+  {
+    "event_id": "711592ed980023a346c6939ed25148dd",
+    "title": "Middle East conflict chokes end of supply chain as lights go out in the Pacific",
+    "category": "politics",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 60.72,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-15T12:00:00+00:00",
+        "source_name": "UN News",
+        "article_url": "https://news.un.org/feed/view/en/story/2026/04/1167303",
+        "content": "For Pacific Island countries, the Middle East crisis is not a distant geopolitical event. It is already showing up in higher fuel prices, electricity uncertainty and fears that communities sitting at the far end of global supply chains could be pushed into deeper economic insecurity."
+      }
+    ],
+    "sources": [
+      "UN News (global)"
+    ]
+  },
+  {
+    "event_id": "1bc9c95204863c23a29e9c87697568f4",
+    "title": "World failing Sudan as war enters a fourth year, UN relief chief warns",
+    "category": "politics",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 60.72,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-14T12:00:00+00:00",
+        "source_name": "UN News",
+        "article_url": "https://news.un.org/feed/view/en/story/2026/04/1167301",
+        "content": "Sudan remains the world’ s largest humanitarian and displacement crisis, UN agencies and partners said on Tuesday, calling for an end to the war between rival militaries on the eve of the three-year mark."
+      }
+    ],
+    "sources": [
+      "UN News (global)"
+    ]
+  },
+  {
+    "event_id": "83304c26cedede864aa09fbad2ec60a0",
+    "title": "‘Time for diplomacy over escalation’ in Middle East war: Guterres",
+    "category": "politics",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 60.72,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-14T12:00:00+00:00",
+        "source_name": "UN News",
+        "article_url": "https://news.un.org/feed/view/en/story/2026/04/1167299",
+        "content": "As the war in the Middle East continues, the United Nations Secretary-General issued a passionate call for “serious negotiations” between the US and Iran to resume, warning that respect for international law “is being trampled” underfoot."
+      }
+    ],
+    "sources": [
+      "UN News (global)"
+    ]
+  },
+  {
+    "event_id": "04942e81addaa8107fcce35c5dff462f",
+    "title": "‘Now is the moment to invest’: Syria needs global backing, says UN expert",
+    "category": "politics",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 60.72,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-14T12:00:00+00:00",
+        "source_name": "UN News",
+        "article_url": "https://news.un.org/feed/view/en/story/2026/04/1167291",
+        "content": "Syria has made “remarkable progress” on transitional justice within the past year, raising hopes for accountability and recovery after more than a decade of civil conflict."
+      }
+    ],
+    "sources": [
+      "UN News (global)"
+    ]
+  },
+  {
+    "event_id": "51a7f19e972d4e407e699d1d0953bf04",
+    "title": "‘Clock is ticking’: Hormuz disruption raises fears of global food crisis",
+    "category": "politics",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 60.72,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-13T12:00:00+00:00",
+        "source_name": "UN News",
+        "article_url": "https://news.un.org/feed/view/en/story/2026/04/1167289",
+        "content": "The clock is ticking for global food systems as disruptions in the Strait of Hormuz threaten to choke off the flow of fuel and crucial fertilizers needed for the next planting season – also raising the risk of higher food prices and a new wave of inflation."
+      }
+    ],
+    "sources": [
+      "UN News (global)"
+    ]
+  },
+  {
+    "event_id": "23adf64aba900a84fbbee7c473e389b8",
+    "title": "MIDDLE EAST LIVE 13 April: US-Iran talks falter; Strait of Hormuz uncertainty deepens",
+    "category": "politics",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 60.72,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-13T12:00:00+00:00",
+        "source_name": "UN News",
+        "article_url": "https://news.un.org/feed/view/en/story/2026/04/1167285",
+        "content": "Weekend developments have raised fresh concerns worldwide after talks between the United States and Iran on Saturday ended without agreement, fuelling uncertainty and raising tensions once again. The planned US blockade targeting Iranian ports going into effect has added to fears of further escalation and global trade disruption. Meanwhile, the humanitarian toll mounts, with Lebanese authorities reporting that deaths from Israeli airstrikes has now surpassed 2,000. Stay with us for live updates on humanitarian impacts and diplomatic efforts. App users can follow coverage here."
+      }
+    ],
+    "sources": [
+      "UN News (global)"
+    ]
+  },
+  {
+    "event_id": "945c079205b71d9a500892d039640430",
+    "title": "Haiti’s freefall demands urgent global action as millions face hunger and violence",
+    "category": "politics",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 60.72,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-10T12:00:00+00:00",
+        "source_name": "UN News",
+        "article_url": "https://news.un.org/feed/view/en/story/2026/04/1167283",
+        "content": "Haiti is facing “one of the most severe and rapidly deteriorating humanitarian crises in the Western Hemisphere,” a senior UN aid official warned on Friday, underscoring the need for continued global attention to alleviate suffering there."
+      }
+    ],
+    "sources": [
+      "UN News (global)"
+    ]
+  },
+  {
+    "event_id": "cf81e2d622efecf23a0c1b53950443f9",
+    "title": "Sudan: 14 million displaced; hunger and attacks on health continue as war enters fourth year",
+    "category": "politics",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 60.72,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-10T12:00:00+00:00",
+        "source_name": "UN News",
+        "article_url": "https://news.un.org/feed/view/en/story/2026/04/1167281",
+        "content": "As Sudan approaches the third anniversary of a brutal civil war, millions remain displaced and hungry while the health system lies in ruins, with no end to the violence in sight, UN agencies said on Friday."
+      }
+    ],
+    "sources": [
+      "UN News (global)"
+    ]
+  },
+  {
+    "event_id": "465545cec0b06d993497558f30427ab4",
+    "title": "Lebanon airstrike casualties ‘still under the rubble’ as ambulances, hospitals face new threats",
+    "category": "politics",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 60.72,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-10T12:00:00+00:00",
+        "source_name": "UN News",
+        "article_url": "https://news.un.org/feed/view/en/story/2026/04/1167280",
+        "content": "With Lebanon still reeling from Israel’s devastating airstrikes on 8 April, UN humanitarians reported new fears of attacks on ambulances and looming food shortages in the south of the country on Friday."
+      }
+    ],
+    "sources": [
+      "UN News (global)"
+    ]
+  },
+  {
+    "event_id": "e15b996f15b01f49473a1bf8d953e0e9",
+    "title": "Ford EV and tech chief leaving automaker",
+    "category": "technology",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 58.72,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-15T21:52:05+00:00",
+        "source_name": "TechCrunch",
+        "article_url": "https://techcrunch.com/2026/04/15/ford-ev-and-tech-chief-leaving-automaker/",
+        "content": "Doug Field had stints at Apple and Tesla before joining Ford in 2021."
+      }
+    ],
+    "sources": [
+      "TechCrunch (global)"
+    ]
+  },
+  {
+    "event_id": "2ef191331fd8d3d5faae4f23e8a0f885",
+    "title": "Google rolls out a native Gemini app for Mac",
+    "category": "technology",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 58.72,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-15T18:22:13+00:00",
+        "source_name": "TechCrunch",
+        "article_url": "https://techcrunch.com/2026/04/15/google-rolls-out-a-native-gemini-app-for-mac/",
+        "content": "You can share anything on their screen with Gemini to get help with what they're looking at in the moment, including local files."
+      }
+    ],
+    "sources": [
+      "TechCrunch (global)"
+    ]
+  },
+  {
+    "event_id": "47535b7add6afc19897aa29397855aa4",
+    "title": "Aloe Blacc’s fame means nothing in biotech (and that’s the point)",
+    "category": "technology",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 58.72,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-15T14:00:00+00:00",
+        "source_name": "TechCrunch",
+        "article_url": "https://techcrunch.com/video/aloe-blaccs-fame-means-nothing-in-biotech-and-thats-the-point/",
+        "content": "When Grammy-nominated singer-songwriter Aloe Blacc got COVID despite being vaccinated and boosted, he tried to fund research for a better solution. What he quickly found out? You can’t just write a check in biotech. Regulators require a commercialization plan, and philanthropy doesn’t move science through clinical trials or get you a license on university IP. Now, he’s bootstrapping a cancer drug platform targeting pancreatic cancer, a disease that […]"
+      }
+    ],
+    "sources": [
+      "TechCrunch (global)"
+    ]
+  },
+  {
+    "event_id": "a8362a2b8739813c0c5471d3fbadbba5",
+    "title": "Italy suspends defense agreement with Israel",
+    "category": "military",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 58.72,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-14T19:48:08+00:00",
+        "source_name": "Defense News",
+        "article_url": "https://www.defensenews.com/global/europe/2026/04/14/italy-suspends-defense-agreement-with-israel/",
+        "content": "The announcement marks a change for Italy, which has been a loyal ally to Israel for years and has been viewed by Trump as a trusted partner in Europe."
+      }
+    ],
+    "sources": [
+      "Defense News (global)"
+    ]
+  },
+  {
+    "event_id": "3ab5f2f84986fc2ad55f3819dcb5a7bc",
+    "title": "Swedish, Polish firms invest in TNT plants to quench Europe’s ammo thirst",
+    "category": "military",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 58.72,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-14T10:44:41+00:00",
+        "source_name": "Defense News",
+        "article_url": "https://www.defensenews.com/global/europe/2026/04/14/swedish-polish-firms-invest-in-tnt-plants-to-quench-europes-ammo-thirst/",
+        "content": "Swebal’s new factory is to have the capacity to produce more than 4,000 metric tons of TNT annually. Russia is estimated to make 50,000 tons per year."
+      }
+    ],
+    "sources": [
+      "Defense News (global)"
+    ]
+  },
+  {
+    "event_id": "913d47393f8e44a25368a23e6c216c10",
+    "title": "Australia touts first GMLRS artillery rocket assembled Down Under",
+    "category": "military",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 58.72,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-14T09:48:45+00:00",
+        "source_name": "Defense News",
+        "article_url": "https://www.defensenews.com/global/asia-pacific/2026/04/14/australia-touts-first-gmlrs-artillery-rocket-assembled-down-under/",
+        "content": "Lockheed's rocket is the poster child for Australia’s Guided Weapons and Explosive Ordnance (GWEO) Enterprise, which seeks make strike weapons locally."
+      }
+    ],
+    "sources": [
+      "Defense News (global)"
+    ]
+  },
+  {
+    "event_id": "34af70902dc6080bd5e17c8c1c37b10d",
+    "title": "France mulls fallback tank for delayed MGCS program in defense update",
+    "category": "military",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 58.72,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-09T09:32:18+00:00",
+        "source_name": "Defense News",
+        "article_url": "https://www.defensenews.com/global/europe/2026/04/09/france-mulls-fallback-tank-for-delayed-mgcs-program-in-defense-update/",
+        "content": "The delay for the MGCS project is due to Germany deciding to start a program for new Leopard 3 tanks, according to Vautrin."
+      }
+    ],
+    "sources": [
+      "Defense News (global)"
+    ]
+  },
+  {
+    "event_id": "bc390b9f4410972dd5d6ea877829dfe9",
+    "title": "Tobago’s teen archery champion takes aim at sustainability targets",
+    "category": "politics",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 58.22,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-15T12:00:00+00:00",
+        "source_name": "UN News",
+        "article_url": "https://news.un.org/feed/view/en/story/2026/04/1167310",
+        "content": "Six-time Trinidad and Tobago archery champion, Anthurium Lewis, has told UN News how sport helped her overcome age barriers in environmental advocacy and how in the future it can contribute to reaching globally agreed poverty and sustainability goals."
+      }
+    ],
+    "sources": [
+      "UN News (global)"
+    ]
+  },
+  {
+    "event_id": "ef93774bb24603a3fc69ed2adcf0395b",
+    "title": "Africa: Nearly 20 million measles deaths averted since 2000",
+    "category": "politics",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 58.22,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-15T12:00:00+00:00",
+        "source_name": "UN News",
+        "article_url": "https://news.un.org/feed/view/en/story/2026/04/1167307",
+        "content": "Measles vaccinations have saved nearly 20 million lives in Africa since the year 2000 and more than 500 million children were protected through routine immunisation, but the continent remains offtrack in the fight against vaccine-preventable diseases."
+      }
+    ],
+    "sources": [
+      "UN News (global)"
+    ]
+  },
+  {
+    "event_id": "3c71517ed0d8a880f1a68f43f69b11fe",
+    "title": "Youth shape the road to 2030, call for urgent action on sustainable development",
+    "category": "politics",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 58.22,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-15T12:00:00+00:00",
+        "source_name": "UN News",
+        "article_url": "https://news.un.org/feed/view/en/story/2026/04/1167306",
+        "content": "As we confront increasingly complex and interconnected crises - from climate change to the AI revolution - the leadership and voices of young people have never been more vital, says the UN."
+      }
+    ],
+    "sources": [
+      "UN News (global)"
+    ]
+  },
+  {
+    "event_id": "5d58948fcc767562eb26f1be3d813e53",
+    "title": "SECURITY COUNCIL LIVE:  Security fears rise in eastern DR Congo",
+    "category": "politics",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 58.22,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-15T12:00:00+00:00",
+        "source_name": "UN News",
+        "article_url": "https://news.un.org/feed/view/en/story/2026/04/1167304",
+        "content": "The UN Security Council met Wednesday over the deteriorating security situation in the Democratic Republic of the Congo and wider Great Lakes region. Despite mediation efforts in Doha and Washington, regional tensions between the DRC, Rwanda, and Burundi remain acute. Follow the full live updates below from our Meetings Coverage team, and app users can click here."
+      }
+    ],
+    "sources": [
+      "UN News (global)"
+    ]
+  },
+  {
+    "event_id": "8c7fa92476dab56d588ae1efdd8258e1",
+    "title": "Fleeing Sudan's war, refugees rebuild their lives in Uganda",
+    "category": "politics",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 58.22,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-14T12:00:00+00:00",
+        "source_name": "UN News",
+        "article_url": "https://news.un.org/feed/view/en/story/2026/04/1167295",
+        "content": "On the outskirts of the Ugandan town of Biale, tents are scattered along dirt roads that give way to open fields. The Kriandongo camp sits between a shattered past and a life tentatively being rebuilt. Here, the story does not end with fleeing war. Another phase begins, one where days are measured not in hours, but in the weight of loss and the effort to carry on."
+      }
+    ],
+    "sources": [
+      "UN News (global)"
+    ]
+  },
+  {
+    "event_id": "90aa4d54637df4dcb16546eeae0f5aad",
+    "title": "European Union support for the UN ‘more vital than ever’, Security Council hears",
+    "category": "politics",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 58.22,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-13T12:00:00+00:00",
+        "source_name": "UN News",
+        "article_url": "https://news.un.org/feed/view/en/story/2026/04/1167288",
+        "content": "A senior United Nations official on Monday hailed the European Union (EU) as “a major economic and diplomatic actor and a strong advocate of multilateralism.”"
+      }
+    ],
+    "sources": [
+      "UN News (global)"
+    ]
+  },
+  {
+    "event_id": "1fec207d39bb512eb3e7b5cb3bda2f15",
+    "title": "Putting humans at the centre: UN AI panel begins work on global impact study",
+    "category": "politics",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 58.22,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-11T12:00:00+00:00",
+        "source_name": "UN News",
+        "article_url": "https://news.un.org/feed/view/en/story/2026/04/1167263",
+        "content": "The UN’s Independent International Scientific Panel on AI – the first global body of its kind – is gearing up for its inaugural in-person summit."
+      }
+    ],
+    "sources": [
+      "UN News (global)"
+    ]
+  },
+  {
+    "event_id": "90eaed546692169446a667882f6a552c",
+    "title": "Reparations ‘key to dismantling systemic racism’: UN rights chief",
+    "category": "politics",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 55.72,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-14T12:00:00+00:00",
+        "source_name": "UN News",
+        "article_url": "https://news.un.org/feed/view/en/story/2026/04/1167297",
+        "content": "The UN High Commissioner for Human Rights, Volker Türk, has described reparatory justice for colonialism, enslavement and the trade in enslaved Africans as “key to dismantling systemic racism.”"
+      }
+    ],
+    "sources": [
+      "UN News (global)"
+    ]
+  },
+  {
+    "event_id": "9c2eb771c7ddb0abda9d6624b548bb91",
+    "title": "Why the ‘beautiful game’ is joining the fight for a better world",
+    "category": "politics",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 55.72,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-14T12:00:00+00:00",
+        "source_name": "UN News",
+        "article_url": "https://news.un.org/feed/view/en/story/2026/04/1167296",
+        "content": "The world of football met the world of diplomacy this week as Brazilian World Cup legend Zico touched down at UN Headquarters in New York."
+      }
+    ],
+    "sources": [
+      "UN News (global)"
+    ]
+  },
+  {
+    "event_id": "2ec38481427a3cebbac357f3729fde36",
+    "title": "Tech gaps and budget cuts threaten global efforts to track and help the vulnerable",
+    "category": "politics",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 55.72,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-13T12:00:00+00:00",
+        "source_name": "UN News",
+        "article_url": "https://news.un.org/feed/view/en/story/2026/04/1167287",
+        "content": "Digital tools are changing the way countries manage everything from tracking refugees to caring for the elderly."
+      }
+    ],
+    "sources": [
+      "UN News (global)"
+    ]
+  },
+  {
+    "event_id": "13cb42298c6741d752517ede1bb917e8",
+    "title": "New era for space dawns as Artemis astronauts return",
+    "category": "politics",
+    "country": "global",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 55.72,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-10T12:00:00+00:00",
+        "source_name": "UN News",
+        "article_url": "https://news.un.org/feed/view/en/story/2026/04/1167284",
+        "content": "After a 10-day journey around the far side of the Moon, the four astronauts on NASA’s Artemis II mission are set to splash down in the Pacific Ocean late on Friday."
+      }
+    ],
+    "sources": [
+      "UN News (global)"
+    ]
+  },
+  {
+    "event_id": "231a7f5a945ea731692c1e3ec9a177fe",
+    "title": "Multitasking quantum sensors can measure several properties at once",
+    "category": "technology",
+    "country": "us",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 53.52,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-15T04:00:00+00:00",
+        "source_name": "MIT News",
+        "article_url": "https://news.mit.edu/2026/multitasking-quantum-sensors-can-measure-several-properties-0415",
+        "content": "The devices represent a key step toward practical quantum sensing, with applications in biomedical sensing, materials characterization, and more."
+      }
+    ],
+    "sources": [
+      "MIT News (us)"
+    ]
+  },
+  {
+    "event_id": "d38229beeb4d6883993db8fdb6d7d0f9",
+    "title": "AI system learns to keep warehouse robot traffic running smoothly",
+    "category": "technology",
+    "country": "us",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 53.52,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-03-26T04:00:00+00:00",
+        "source_name": "MIT News",
+        "article_url": "https://news.mit.edu/2026/ai-system-keeps-warehouse-robot-traffic-running-smoothly-0326",
+        "content": "This new approach adapts to decide which robots should get the right of way at every moment, avoiding congestion and increasing throughput."
+      }
+    ],
+    "sources": [
+      "MIT News (us)"
+    ]
+  },
+  {
+    "event_id": "3d50371fdee7864d218cfa4f4b3d35fb",
+    "title": "MIT and Hasso Plattner Institute establish collaborative hub for AI and creativity",
+    "category": "technology",
+    "country": "us",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 53.52,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-03-20T12:45:00+00:00",
+        "source_name": "MIT News",
+        "article_url": "https://news.mit.edu/2026/mit-hasso-plattner-institute-collaborative-hub-for-ai-and-creativity-0320",
+        "content": "Jointly led by the MIT Morningside Academy for Design, MIT Schwarzman College of Computing, and the Hasso Plattner Institute in Potsdam, the hub will foster a dynamic community where computing, creativity, and human-centered innovation meet."
+      }
+    ],
+    "sources": [
+      "MIT News (us)"
+    ]
+  },
+  {
+    "event_id": "0b61b35edf51ee85b1e59cda0cd227a4",
+    "title": "New photonic device efficiently beams light into free space",
+    "category": "technology",
+    "country": "us",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 53.52,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-03-11T16:00:00+00:00",
+        "source_name": "MIT News",
+        "article_url": "https://news.mit.edu/2026/new-photonic-device-efficiently-beams-light-free-space-0311",
+        "content": "Light-emitting structures that curl off the chip surface could enable advanced displays, high-speed optical communications, and larger-scale quantum computers."
+      }
+    ],
+    "sources": [
+      "MIT News (us)"
+    ]
+  },
+  {
+    "event_id": "131d65363837d4143e707f2f6dddd39b",
+    "title": "Human-machine teaming dives underwater",
+    "category": "technology",
+    "country": "us",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 51.02,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-14T13:00:00+00:00",
+        "source_name": "MIT News",
+        "article_url": "https://news.mit.edu/2026/human-machine-teaming-dives-underwater-0414",
+        "content": "Researchers are developing hardware and algorithms to improve collaboration between divers and autonomous underwater vehicles engaged in maritime missions."
+      }
+    ],
+    "sources": [
+      "MIT News (us)"
+    ]
+  },
+  {
+    "event_id": "181b70b9ef93bf59b35d7eb1262a0fbe",
+    "title": "Carbon removal project supports Maine’s blue economy, broader marine health",
+    "category": "technology",
+    "country": "us",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 51.02,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-14T04:00:00+00:00",
+        "source_name": "MIT News",
+        "article_url": "https://news.mit.edu/2026/carbon-removal-project-supports-maines-blue-economy-broader-marine-health-0414",
+        "content": "A chemical-free approach to balancing ocean acidity protects marine life and could dramatically impact the global aquaculture market."
+      }
+    ],
+    "sources": [
+      "MIT News (us)"
+    ]
+  },
+  {
+    "event_id": "aa35c4b8d132702910b6cb0257969f42",
+    "title": "Learning with audiobooks",
+    "category": "technology",
+    "country": "us",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 51.02,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-09T18:00:00+00:00",
+        "source_name": "MIT News",
+        "article_url": "https://news.mit.edu/2026/learning-audiobooks-vocabulary-0409",
+        "content": "A new study finds that audiobooks help students learn new words — especially when paired with one-on-one instruction."
+      }
+    ],
+    "sources": [
+      "MIT News (us)"
+    ]
+  },
+  {
+    "event_id": "b9bf2db5a92fec49169d2807425b6f35",
+    "title": "New technique makes AI models leaner and faster while they’re still learning",
+    "category": "technology",
+    "country": "us",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 51.02,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-09T13:00:00+00:00",
+        "source_name": "MIT News",
+        "article_url": "https://news.mit.edu/2026/new-technique-makes-ai-models-leaner-faster-while-still-learning-0409",
+        "content": "Researchers use control theory to shed unnecessary complexity from AI models during training, cutting compute costs without sacrificing performance."
+      }
+    ],
+    "sources": [
+      "MIT News (us)"
+    ]
+  },
+  {
+    "event_id": "a25a4e2aa7c77eda5072441ea7c35111",
+    "title": "Study reveals “two-factor authentication” system that controls microRNA destruction",
+    "category": "technology",
+    "country": "us",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 51.02,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-07T16:10:00+00:00",
+        "source_name": "MIT News",
+        "article_url": "https://news.mit.edu/2026/2fa-system-controls-microrna-destruction-0407",
+        "content": "Researchers uncovered how cells selectively destroy certain microRNAs — key gene regulators — through a mechanism that requires two RNA signals working together."
+      }
+    ],
+    "sources": [
+      "MIT News (us)"
+    ]
+  },
+  {
+    "event_id": "139c024fcb78b00c5683f836fb260c97",
+    "title": "How bacteria suppress immune defenses in stubborn wound infections",
+    "category": "technology",
+    "country": "us",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 51.02,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-07T15:40:00+00:00",
+        "source_name": "MIT News",
+        "article_url": "https://news.mit.edu/2026/how-bacteria-suppress-immune-defenses-stubborn-wound-infections-0407",
+        "content": "Study finds a common bacterium can suppress the body’s early warning system in wounds, causing infections to persist and create an environment that allows other bacteria to take hold."
+      }
+    ],
+    "sources": [
+      "MIT News (us)"
+    ]
+  },
+  {
+    "event_id": "648dd65dd9f31cf4eba115070eb02ff1",
+    "title": "Helping data centers deliver higher performance with less hardware",
+    "category": "technology",
+    "country": "us",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 51.02,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-07T04:00:00+00:00",
+        "source_name": "MIT News",
+        "article_url": "https://news.mit.edu/2026/helping-data-centers-deliver-higher-performance-less-hardware-0407",
+        "content": "Researchers developed a system that intelligently balances workloads to improve the efficiency of flash storage hardware in a data center."
+      }
+    ],
+    "sources": [
+      "MIT News (us)"
+    ]
+  },
+  {
+    "event_id": "9a0a2141c3c0232b154a08ba46bc3309",
+    "title": "Electrons in moiré crystals explore higher-dimensional quantum worlds",
+    "category": "technology",
+    "country": "us",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 51.02,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-03T21:30:00+00:00",
+        "source_name": "MIT News",
+        "article_url": "https://news.mit.edu/2026/electrons-in-moire-crystals-explore-higher-dimensional-quantum-worlds-0403",
+        "content": "MIT physicists have discovered 3D “moiré crystals” that simulate four-dimensional quantum materials to a T."
+      }
+    ],
+    "sources": [
+      "MIT News (us)"
+    ]
+  },
+  {
+    "event_id": "8d405a3b8775a7194dd47f3be73a8e15",
+    "title": "MIT researchers measure traffic emissions, to the block, in real-time",
+    "category": "technology",
+    "country": "us",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 51.02,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-02T09:00:00+00:00",
+        "source_name": "MIT News",
+        "article_url": "https://news.mit.edu/2026/mit-researchers-measure-traffic-emissions-block-real-time-0402",
+        "content": "A new study pieces together existing data sources in order to develop a detailed, dynamic picture of auto emissions."
+      }
+    ],
+    "sources": [
+      "MIT News (us)"
+    ]
+  },
+  {
+    "event_id": "bc4605c16a2f1e101a4618c2df7d079d",
+    "title": "Evaluating the ethics of autonomous systems",
+    "category": "technology",
+    "country": "us",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 51.02,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-02T04:00:00+00:00",
+        "source_name": "MIT News",
+        "article_url": "https://news.mit.edu/2026/evaluating-autonomous-systems-ethics-0402",
+        "content": "MIT researchers developed a testing framework that pinpoints situations where AI decision-support systems are not treating people and communities fairly."
+      }
+    ],
+    "sources": [
+      "MIT News (us)"
+    ]
+  },
+  {
+    "event_id": "1159c3ffe2d684514c1de479c9b67e2e",
+    "title": "Climate change may produce “fast-food” phytoplankton",
+    "category": "technology",
+    "country": "us",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 51.02,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-03-31T09:00:00+00:00",
+        "source_name": "MIT News",
+        "article_url": "https://news.mit.edu/2026/climate-change-may-produce-fast-food-phytoplankton-0331",
+        "content": "With warmer ocean temperatures, the composition of marine plankton could shift from protein-rich to carb-heavy, a new study suggests."
+      }
+    ],
+    "sources": [
+      "MIT News (us)"
+    ]
+  },
+  {
+    "event_id": "ddca7d177a3f7df46117068927906822",
+    "title": "MIT researchers use AI to uncover atomic defects in materials",
+    "category": "technology",
+    "country": "us",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 51.02,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-03-30T15:00:00+00:00",
+        "source_name": "MIT News",
+        "article_url": "https://news.mit.edu/2026/mit-researchers-use-ai-uncover-atomic-defects-materials-0330",
+        "content": "A new model measures defects that can be leveraged to improve materials’ mechanical strength, heat transfer, and energy-conversion efficiency."
+      }
+    ],
+    "sources": [
+      "MIT News (us)"
+    ]
+  },
+  {
+    "event_id": "6cdfc2b11602ed2a5028923e1af19194",
+    "title": "MIT engineers design proteins by their motion, not just their shape",
+    "category": "technology",
+    "country": "us",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 51.02,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-03-26T20:20:00+00:00",
+        "source_name": "MIT News",
+        "article_url": "https://news.mit.edu/2026/mit-engineers-design-proteins-by-motion-not-just-shape-0326",
+        "content": "An AI model generates novel proteins based on how they vibrate and move, opening new possibilities for dynamic biomaterials and adaptive therapeutics."
+      }
+    ],
+    "sources": [
+      "MIT News (us)"
+    ]
+  },
+  {
+    "event_id": "c82d361a8ac66cc9ffd34f58be59b69f",
+    "title": "Study reveals why some cancer therapies don’t work for all patients",
+    "category": "technology",
+    "country": "us",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 51.02,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-03-26T15:00:00+00:00",
+        "source_name": "MIT News",
+        "article_url": "https://news.mit.edu/2026/study-reveals-why-some-cancer-therapies-dont-work-all-patients-0326",
+        "content": "A backup survival pathway can help tumor cells resist certain lung cancer and other drugs. Combining therapies may offer a solution."
+      }
+    ],
+    "sources": [
+      "MIT News (us)"
+    ]
+  },
+  {
+    "event_id": "50ef8fdc2fc6a2d952a9d14933403969",
+    "title": "Wristband enables wearers to control a robotic hand with their own movements",
+    "category": "technology",
+    "country": "us",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 51.02,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-03-25T10:00:00+00:00",
+        "source_name": "MIT News",
+        "article_url": "https://news.mit.edu/2026/wristband-enables-wearers-control-robotic-hand-with-own-movements-0325",
+        "content": "By moving their hands and fingers, users can direct a robot to play piano or shoot a basketball, or they can manipulate objects in a virtual environment."
+      }
+    ],
+    "sources": [
+      "MIT News (us)"
+    ]
+  },
+  {
+    "event_id": "ced4718e32012d0467997db8c7a94f46",
+    "title": "How to create “humble” AI",
+    "category": "technology",
+    "country": "us",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 51.02,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-03-24T04:00:00+00:00",
+        "source_name": "MIT News",
+        "article_url": "https://news.mit.edu/2026/creating-humble-ai-0324",
+        "content": "An MIT-led team is designing artificial intelligence systems for medical diagnosis that are more collaborative and forthcoming about uncertainty."
+      }
+    ],
+    "sources": [
+      "MIT News (us)"
+    ]
+  },
+  {
+    "event_id": "b4f09724989e65c8ae41389b7574596f",
+    "title": "Generative AI improves a wireless vision system that sees through obstructions",
+    "category": "technology",
+    "country": "us",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 51.02,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-03-19T04:00:00+00:00",
+        "source_name": "MIT News",
+        "article_url": "https://news.mit.edu/2026/generative-ai-improves-wireless-vision-system-sees-through-obstructions-0319",
+        "content": "With this new technique, a robot could more accurately detect hidden objects or understand an indoor scene using reflected Wi-Fi signals."
+      }
+    ],
+    "sources": [
+      "MIT News (us)"
+    ]
+  },
+  {
+    "event_id": "7633fe5708b4916b4659cd138afc3cf6",
+    "title": "A better method for identifying overconfident large language models",
+    "category": "technology",
+    "country": "us",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 51.02,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-03-19T04:00:00+00:00",
+        "source_name": "MIT News",
+        "article_url": "https://news.mit.edu/2026/better-method-identifying-overconfident-large-language-models-0319",
+        "content": "This new metric for measuring uncertainty could flag hallucinations and help users know whether to trust an AI model."
+      }
+    ],
+    "sources": [
+      "MIT News (us)"
+    ]
+  },
+  {
+    "event_id": "698ba1b8d6e1ae8549380292642721c0",
+    "title": "Brain circuit needed to incorporate new information may be linked to schizophrenia",
+    "category": "technology",
+    "country": "us",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 51.02,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-03-18T10:00:00+00:00",
+        "source_name": "MIT News",
+        "article_url": "https://news.mit.edu/2026/brain-circuit-incorporates-new-information-may-be-linked-schizophrenia-0318",
+        "content": "Impairments of this circuit may help to explain why some people with schizophrenia lose touch with reality."
+      }
+    ],
+    "sources": [
+      "MIT News (us)"
+    ]
+  },
+  {
+    "event_id": "86d273c0a0e208d5d376b22397691dbe",
+    "title": "Three anesthesia drugs all have the same effect in the brain, MIT researchers find",
+    "category": "technology",
+    "country": "us",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 51.02,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-03-17T15:00:00+00:00",
+        "source_name": "MIT News",
+        "article_url": "https://news.mit.edu/2026/three-anesthesia-drugs-all-have-same-effect-brain-0317",
+        "content": "Discovering this common mechanism could lead to a universal anesthesia-delivery system to monitor patients more effectively."
+      }
+    ],
+    "sources": [
+      "MIT News (us)"
+    ]
+  },
+  {
+    "event_id": "77eb9c10e35f504783e1960ee7a62dde",
+    "title": "How the brain handles the “cocktail party problem”",
+    "category": "technology",
+    "country": "us",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 51.02,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-03-13T10:00:00+00:00",
+        "source_name": "MIT News",
+        "article_url": "https://news.mit.edu/2026/how-brain-handles-cocktail-party-problem-0313",
+        "content": "Using a computational model, neuroscientists showed how the brain can selectively focus attention on one voice among others in a noisy environment."
+      }
+    ],
+    "sources": [
+      "MIT News (us)"
+    ]
+  },
+  {
+    "event_id": "82b4b7b350c5fa2736b2ceeb2c3b8082",
+    "title": "Improving AI models’ ability to explain their predictions",
+    "category": "technology",
+    "country": "us",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 51.02,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-03-09T04:00:00+00:00",
+        "source_name": "MIT News",
+        "article_url": "https://news.mit.edu/2026/improving-ai-models-ability-explain-predictions-0309",
+        "content": "A new approach could help users know whether to trust a model’s predictions in safety-critical applications like health care and autonomous driving."
+      }
+    ],
+    "sources": [
+      "MIT News (us)"
+    ]
+  },
+  {
+    "event_id": "9f80e851f9cbf537e8bb9e9ad7db448d",
+    "title": "Seeds of something different",
+    "category": "technology",
+    "country": "us",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 51.02,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-03-06T05:00:00+00:00",
+        "source_name": "MIT News",
+        "article_url": "https://news.mit.edu/2026/seeds-something-different-kate-brown-book-0306",
+        "content": "Kate Brown’s book, “Tiny Gardens Everywhere,” examines the hidden history of urban farming, its extensive use, and the politics of growing food."
+      }
+    ],
+    "sources": [
+      "MIT News (us)"
+    ]
+  },
+  {
+    "event_id": "c350298394f73faf02a76820d37459cd",
+    "title": "1,200 UK jobs supported by nearly £900 million defence deal to keep military helicopters mission-ready",
+    "category": "politics",
+    "country": "uk",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 50.52,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-15T15:02:31+00:00",
+        "source_name": "UK Government Atom Feed",
+        "article_url": "https://www.gov.uk/government/news/1200-uk-jobs-supported-by-nearly-900-million-defence-deal-to-keep-military-helicopters-mission-ready",
+        "content": "More than 1,000 jobs have been secured through a new contract to help sustain Army Apache and RAF Chinook helicopters."
+      }
+    ],
+    "sources": [
+      "UK Government Atom Feed (uk)"
+    ]
+  },
+  {
+    "event_id": "8ed92ca07d2eff1fd0a5797443c57357",
+    "title": "AI cyber threats: open letter to business leaders",
+    "category": "politics",
+    "country": "uk",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 50.52,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-15T14:28:00+00:00",
+        "source_name": "UK Government Atom Feed",
+        "article_url": "https://www.gov.uk/government/publications/ai-cyber-threats-open-letter-to-business-leaders",
+        "content": "Open letter from DSIT Secretary of State Liz Kendall and Security Minister Dan Jarvis to UK business leaders."
+      }
+    ],
+    "sources": [
+      "UK Government Atom Feed (uk)"
+    ]
+  },
+  {
+    "event_id": "8128e172697c6368a88e7855981f96b1",
+    "title": "A philosophy of work",
+    "category": "technology",
+    "country": "us",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 48.52,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-09T18:00:00+00:00",
+        "source_name": "MIT News",
+        "article_url": "https://news.mit.edu/2026/philosophy-work-michal-masny-0409",
+        "content": "As the NC Ethics of Technology Postdoctoral Fellow, Michal Masny is advancing dialogue, teaching, and research into the social and ethical dimensions of new computing technologies."
+      }
+    ],
+    "sources": [
+      "MIT News (us)"
+    ]
+  },
+  {
+    "event_id": "da2e5823227765aac4cefa69b6f0758e",
+    "title": "Slice and dice",
+    "category": "technology",
+    "country": "us",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 48.52,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-09T18:00:00+00:00",
+        "source_name": "MIT News",
+        "article_url": "https://news.mit.edu/2026/slice-and-dice-snipe-bacterial-defense-0409",
+        "content": "SNIPE, a newly characterized biological defense system, directly protects bacteria by chopping up invading viral DNA."
+      }
+    ],
+    "sources": [
+      "MIT News (us)"
+    ]
+  },
+  {
+    "event_id": "27a4a73621dba1e16e4da20143e5acfe",
+    "title": "A new type of electrically driven artificial muscle fiber",
+    "category": "technology",
+    "country": "us",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 48.52,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-09T15:00:00+00:00",
+        "source_name": "MIT News",
+        "article_url": "https://news.mit.edu/2026/new-type-electrically-driven-artificial-muscle-fiber-0409",
+        "content": "Electrofluidic fibers mimic how natural muscle fibers bundle, and could enable compact, silent robotic and prosthetic systems."
+      }
+    ],
+    "sources": [
+      "MIT News (us)"
+    ]
+  },
+  {
+    "event_id": "bd458c9c4745d3ef272c855c0dcc0c25",
+    "title": "Physicists zero in on the mass of the fundamental W boson particle",
+    "category": "technology",
+    "country": "us",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 48.52,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-08T16:00:00+00:00",
+        "source_name": "MIT News",
+        "article_url": "https://news.mit.edu/2026/physicists-report-mass-fundamental-w-boson-particle-0408",
+        "content": "The team’s ultra-precise measurement confirms the Standard Model’s predictions."
+      }
+    ],
+    "sources": [
+      "MIT News (us)"
+    ]
+  },
+  {
+    "event_id": "b0e0202bb01bffcf6ffe12462b0f3348",
+    "title": "Researchers develop molecular editing tool to relocate alcohol groups",
+    "category": "technology",
+    "country": "us",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 48.52,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-07T16:35:00+00:00",
+        "source_name": "MIT News",
+        "article_url": "https://news.mit.edu/2026/molecular-editing-tool-relocate-alcohol-groups-0407",
+        "content": "This new technique will allow chemists to efficiently fine-tune the chemical structure of an organic molecule."
+      }
+    ],
+    "sources": [
+      "MIT News (us)"
+    ]
+  },
+  {
+    "event_id": "7a871ed90a89a97cb7ebcfad6f5d43e9",
+    "title": "Preview tool helps makers visualize 3D-printed objects",
+    "category": "technology",
+    "country": "us",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 48.52,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-01T04:00:00+00:00",
+        "source_name": "MIT News",
+        "article_url": "https://news.mit.edu/2026/preview-tool-helps-makers-visualize-3d-printed-objects-0401",
+        "content": "By quickly generating aesthetically accurate previews of fabricated objects, the VisiPrint system could make prototyping faster and less wasteful."
+      }
+    ],
+    "sources": [
+      "MIT News (us)"
+    ]
+  },
+  {
+    "event_id": "a48d1f1777748e0a38ec4b7756babec6",
+    "title": "Two physicists and a curious host walk into a studio…",
+    "category": "technology",
+    "country": "us",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 48.52,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-03-31T23:00:00+00:00",
+        "source_name": "MIT News",
+        "article_url": "https://news.mit.edu/2026/two-physicists-and-curious-host-walk-studio",
+        "content": "On GBH’s new show The Curiosity Desk, MIT LIGO researchers revel in the beauties of fundamental discovery science and MIT astronomers talk planetary defense."
+      }
+    ],
+    "sources": [
+      "MIT News (us)"
+    ]
+  },
+  {
+    "event_id": "52a2e8f168cb08e0ff1a3c919d3f82f3",
+    "title": "Turning muscles into motors gives static organs new life",
+    "category": "technology",
+    "country": "us",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 48.52,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-03-31T18:30:00+00:00",
+        "source_name": "MIT News",
+        "article_url": "https://news.mit.edu/2026/turning-muscles-into-motors-gives-static-organs-new-life-0331",
+        "content": "A new biohybrid system developed at MIT is the first living implant that uses rewired nerves to revive paralyzed organs."
+      }
+    ],
+    "sources": [
+      "MIT News (us)"
+    ]
+  },
+  {
+    "event_id": "124a39f49bdf1dd4791459c4e3d2d32e",
+    "title": "Implantable islet cells could control diabetes without insulin injections",
+    "category": "technology",
+    "country": "us",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 48.52,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-03-26T15:00:00+00:00",
+        "source_name": "MIT News",
+        "article_url": "https://news.mit.edu/2026/implantable-islet-cells-could-control-diabetes-without-insulin-injections-0326",
+        "content": "The cells can survive in the body for at least three months, producing enough insulin to control blood sugar levels, research shows."
+      }
+    ],
+    "sources": [
+      "MIT News (us)"
+    ]
+  },
+  {
+    "event_id": "251568f5a66e4ab3e6de4bd3bf47f784",
+    "title": "“Near-misses” in particle accelerators can illuminate new physics, study finds",
+    "category": "technology",
+    "country": "us",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 48.52,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-03-26T14:50:00+00:00",
+        "source_name": "MIT News",
+        "article_url": "https://news.mit.edu/2026/near-misses-particle-accelerators-can-illuminate-new-physics-0326",
+        "content": "Physicists discovered new properties of the strong force by analyzing what happens when light-speed particles skim by each other."
+      }
+    ],
+    "sources": [
+      "MIT News (us)"
+    ]
+  },
+  {
+    "event_id": "f8b254a9b3093ce72689bc45a65915b1",
+    "title": "Augmenting citizen science with computer vision for fish monitoring",
+    "category": "technology",
+    "country": "us",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 48.52,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-03-25T21:00:00+00:00",
+        "source_name": "MIT News",
+        "article_url": "https://news.mit.edu/2026/augmenting-citizen-science-computer-vision-fish-monitoring-0325",
+        "content": "MIT Sea Grant works with the Woodwell Climate Research Center and other collaborators to demonstrate a deep learning-based system for fish monitoring."
+      }
+    ],
+    "sources": [
+      "MIT News (us)"
+    ]
+  },
+  {
+    "event_id": "852eb53b9670c8b47ed1beab4702511f",
+    "title": "Why solid-state batteries keep short-circuiting",
+    "category": "technology",
+    "country": "us",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 48.52,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-03-25T16:00:00+00:00",
+        "source_name": "MIT News",
+        "article_url": "https://news.mit.edu/2026/why-solid-state-batteries-keep-short-circuiting-0325",
+        "content": "New insights into metallic cracks that harm battery performance could advance the longstanding quest to develop energy-dense solid-state batteries."
+      }
+    ],
+    "sources": [
+      "MIT News (us)"
+    ]
+  },
+  {
+    "event_id": "42d6379039645ef15308e3602fd9b44d",
+    "title": "A complicated future for a methane-cleansing molecule",
+    "category": "technology",
+    "country": "us",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 48.52,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-03-24T04:00:00+00:00",
+        "source_name": "MIT News",
+        "article_url": "https://news.mit.edu/2026/complicated-future-methane-cleansing-molecule-0324",
+        "content": "A new model shows how levels of the “atmosphere’s detergent” may rise and fall in response to climate change."
+      }
+    ],
+    "sources": [
+      "MIT News (us)"
+    ]
+  },
+  {
+    "event_id": "23e159f345cbf2a7ea6e8bd4ba4ed186",
+    "title": "Investigating Antarctic ice shelf melting with global navigation satellite systems",
+    "category": "technology",
+    "country": "us",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 48.52,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-03-23T20:55:00+00:00",
+        "source_name": "MIT News",
+        "article_url": "https://news.mit.edu/2026/investigating-antarctic-ice-shelf-melting-gnss-satellites-0323",
+        "content": "Observations suggest a major melting event at the Ross Ice Shelf was connected to atmospheric turbulence."
+      }
+    ],
+    "sources": [
+      "MIT News (us)"
+    ]
+  },
+  {
+    "event_id": "9be602420dc953150a7c3fcc8829f68f",
+    "title": "New model predicts how mosquitoes will fly",
+    "category": "technology",
+    "country": "us",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 48.52,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-03-18T18:00:00+00:00",
+        "source_name": "MIT News",
+        "article_url": "https://news.mit.edu/2026/new-model-predicts-how-mosquitoes-will-fly-0318",
+        "content": "Their flight patterns change in response to different sensory cues, a new study finds. The work could lead to more effective traps and mosquito control strategies."
+      }
+    ],
+    "sources": [
+      "MIT News (us)"
+    ]
+  },
+  {
+    "event_id": "e293c41f112c3412379624ef30256fbc",
+    "title": "Turning extreme heat into large-scale energy storage",
+    "category": "technology",
+    "country": "us",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 48.52,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-03-18T04:00:00+00:00",
+        "source_name": "MIT News",
+        "article_url": "https://news.mit.edu/2026/turning-extreme-heat-large-scale-energy-storage-0318",
+        "content": "Fourth Power, founded by Professor Asegun Henry, is developing thermal batteries for efficiently storing excess electricity from utility grids and power producers."
+      }
+    ],
+    "sources": [
+      "MIT News (us)"
+    ]
+  },
+  {
+    "event_id": "dbae99bbd9779bca770ef1466a13b0f4",
+    "title": "Ocean bacteria team up to break down biodegradable plastic",
+    "category": "technology",
+    "country": "us",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 48.52,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-03-16T14:00:00+00:00",
+        "source_name": "MIT News",
+        "article_url": "https://news.mit.edu/2026/ocean-bacteria-break-down-biodegradable-plastic-0316",
+        "content": "MIT researchers uncovered the roles of bacterial species from the environment as they consume biodegradable plastic."
+      }
+    ],
+    "sources": [
+      "MIT News (us)"
+    ]
+  },
+  {
+    "event_id": "0776aace4fb90afd5ac76412a43e31d9",
+    "title": "New sensor sniffs out pneumonia on a patient’s breath",
+    "category": "technology",
+    "country": "us",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 48.52,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-03-16T04:00:00+00:00",
+        "source_name": "MIT News",
+        "article_url": "https://news.mit.edu/2026/new-sensor-sniffs-out-pneumonia-patients-breath-0316",
+        "content": "The technology could enable fast, point-of-care diagnoses for pneumonia and other lung conditions."
+      }
+    ],
+    "sources": [
+      "MIT News (us)"
+    ]
+  },
+  {
+    "event_id": "221a94ac3c72d8d4c96d7e0af2860895",
+    "title": "3 Questions: Fortifying our planetary defenses",
+    "category": "technology",
+    "country": "us",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 48.52,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-03-12T04:00:00+00:00",
+        "source_name": "MIT News",
+        "article_url": "https://news.mit.edu/2026/3-questions-fortifying-our-planetary-defenses-0312",
+        "content": "MIT astronomers are developing a new way to detect, monitor, and mitigate the threats posed by smaller asteroids to our critical space infrastructure."
+      }
+    ],
+    "sources": [
+      "MIT News (us)"
+    ]
+  },
+  {
+    "event_id": "631b3cb98499fcb2a7ccefec2aee0dbf",
+    "title": "A better method for planning complex visual tasks",
+    "category": "technology",
+    "country": "us",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 48.52,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-03-11T04:00:00+00:00",
+        "source_name": "MIT News",
+        "article_url": "https://news.mit.edu/2026/better-method-planning-complex-visual-tasks-0311",
+        "content": "A new hybrid system could help robots navigate in changing environments or increase the efficiency of multirobot assembly teams."
+      }
+    ],
+    "sources": [
+      "MIT News (us)"
+    ]
+  },
+  {
+    "event_id": "1d689d333a3e14a65906043470ae390f",
+    "title": "Understanding how “marine snow” acts as a carbon sink",
+    "category": "technology",
+    "country": "us",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 48.52,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-03-09T19:00:00+00:00",
+        "source_name": "MIT News",
+        "article_url": "https://news.mit.edu/2026/understanding-how-marine-snow-acts-as-carbon-sink-0309",
+        "content": "A new study finds hitchhiking bacteria dissolve essential ballast in ubiquitous “snow” particles, which could counteract the ocean’s ability to sequester carbon."
+      }
+    ],
+    "sources": [
+      "MIT News (us)"
+    ]
+  },
+  {
+    "event_id": "086cebc49be82f4f9b1f22979c6fa7da",
+    "title": "X-raying rocks reveals their carbon-storing capacity",
+    "category": "technology",
+    "country": "us",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 48.52,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-03-06T05:00:00+00:00",
+        "source_name": "MIT News",
+        "article_url": "https://news.mit.edu/2026/x-raying-rocks-reveals-their-carbon-storing-capacity-0306",
+        "content": "New research by MIT geophysicists could assist efforts to remove carbon from the atmosphere and store it underground."
+      }
+    ],
+    "sources": [
+      "MIT News (us)"
+    ]
+  },
+  {
+    "event_id": "f5d7884ae0e11f44443adb4817f46076",
+    "title": "New catalog more than doubles the number of gravitational-wave detections made by LIGO, Virgo, and KAGRA observatories",
+    "category": "technology",
+    "country": "us",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 48.52,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-03-05T13:00:00+00:00",
+        "source_name": "MIT News",
+        "article_url": "https://news.mit.edu/2026/new-catalog-doubles-gravitational-wave-detections-made-ligo-virgo-kagra-0305",
+        "content": "The latest crop of space-time wobbles includes a variety of heavy, fast-spinning, and lopsided colliding black holes."
+      }
+    ],
+    "sources": [
+      "MIT News (us)"
+    ]
+  },
+  {
+    "event_id": "903295aba361ea83618992d4f3d44edc",
+    "title": "Government to examine deaths of vulnerable care leavers",
+    "category": "politics",
+    "country": "uk",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 48.02,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-15T23:01:05+00:00",
+        "source_name": "UK Government Atom Feed",
+        "article_url": "https://www.gov.uk/government/news/government-to-examine-deaths-of-vulnerable-care-leavers",
+        "content": "Review into deaths of young people leaving the care system to be published later this year, led by Ashley John-Baptiste and Clare Chamberlain"
+      }
+    ],
+    "sources": [
+      "UK Government Atom Feed (uk)"
+    ]
+  },
+  {
+    "event_id": "795274bf7eb3b69f331ab10f6e327d41",
+    "title": "Faster and fairer justice for victims thanks to major magistrate recruitment drive",
+    "category": "politics",
+    "country": "uk",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 48.02,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-15T23:01:05+00:00",
+        "source_name": "UK Government Atom Feed",
+        "article_url": "https://www.gov.uk/government/news/faster-and-fairer-justice-for-victims-thanks-to-major-magistrate-recruitment-drive",
+        "content": "Thousands of new magistrates will be recruited and trained in under half the time it currently takes thanks to a new drive to bolster the ranks and deliver faster and fairer justice for victims."
+      }
+    ],
+    "sources": [
+      "UK Government Atom Feed (uk)"
+    ]
+  },
+  {
+    "event_id": "95df4649450b7d7b402e32784bd9ea0f",
+    "title": "The United Kingdom condemns violence against UN peacekeepers who work tirelessly to protect international peace and security: UK statement at the UN Security Council",
+    "category": "politics",
+    "country": "uk",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 48.02,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-15T20:27:22+00:00",
+        "source_name": "UK Government Atom Feed",
+        "article_url": "https://www.gov.uk/government/speeches/the-united-kingdom-condemns-violence-against-un-peacekeepers-who-work-tirelessly-to-protect-international-peace-and-security-uk-statement-at-the-un-se",
+        "content": "Statement by Ambassador Archie Young, UK Deputy Permanent Representative to the UN, at the UN Security Council meeting on UN Peacekeeping Operations."
+      }
+    ],
+    "sources": [
+      "UK Government Atom Feed (uk)"
+    ]
+  },
+  {
+    "event_id": "e8e5054f315456d0c3f73bd9fa4cfe92",
+    "title": "Donna Ockenden appointed to chair Sussex maternity review",
+    "category": "politics",
+    "country": "uk",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 48.02,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-15T18:32:00+00:00",
+        "source_name": "UK Government Atom Feed",
+        "article_url": "https://www.gov.uk/government/news/donna-ockenden-appointed-to-chair-sussex-maternity-review",
+        "content": "Bereaved families to get answers they deserve"
+      }
+    ],
+    "sources": [
+      "UK Government Atom Feed (uk)"
+    ]
+  },
+  {
+    "event_id": "339824ee4247070a90e5a632df6884f1",
+    "title": "The United Kingdom remains concerned by the deteriorating humanitarian situation in the Great Lakes region: UK statement at the UN Security Council",
+    "category": "politics",
+    "country": "uk",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 48.02,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-15T18:05:00+00:00",
+        "source_name": "UK Government Atom Feed",
+        "article_url": "https://www.gov.uk/government/speeches/the-united-kingdom-remains-concerned-by-the-deteriorating-humanitarian-situation-in-the-great-lakes-region-uk-statement-at-the-un-security-council",
+        "content": "Statement by Jennifer MacNaughtan, UK Minister Counsellor, at the Security Council meeting on the Great Lakes Region."
+      }
+    ],
+    "sources": [
+      "UK Government Atom Feed (uk)"
+    ]
+  },
+  {
+    "event_id": "1e4a039f35eab851e64a4f000846e1ee",
+    "title": "Change of Nuclear Decommissioning Authority Chair",
+    "category": "politics",
+    "country": "uk",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 48.02,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-15T15:58:34+00:00",
+        "source_name": "UK Government Atom Feed",
+        "article_url": "https://www.gov.uk/government/news/change-of-nuclear-decommissioning-authority-chair",
+        "content": "Nuclear Decommissioning Authority group Chair to step down to focus on other existing and potential future board roles."
+      }
+    ],
+    "sources": [
+      "UK Government Atom Feed (uk)"
+    ]
+  },
+  {
+    "event_id": "f2f02580d2ca009ccfcbc4316a8c71db",
+    "title": "Letter from the Secretary of State for Business and Trade to the Business and Trade Committee: 2 April 2026",
+    "category": "politics",
+    "country": "uk",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 48.02,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-15T15:53:09+00:00",
+        "source_name": "UK Government Atom Feed",
+        "article_url": "https://www.gov.uk/government/publications/letter-from-the-secretary-of-state-for-business-and-trade-to-the-business-and-trade-committee-2-april-2026",
+        "content": "Letter from the Rt Hon Peter Kyle MP, the Secretary of State for Business and Trade, to the Rt Hon Liam Byrne MP, Chair of the Business and Trade Committee."
+      }
+    ],
+    "sources": [
+      "UK Government Atom Feed (uk)"
+    ]
+  },
+  {
+    "event_id": "5ac02827d8e888374a529d715ab0b2ff",
+    "title": "Digital overhaul of prison system to drive down release errors",
+    "category": "politics",
+    "country": "uk",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 48.02,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-15T15:51:44+00:00",
+        "source_name": "UK Government Atom Feed",
+        "article_url": "https://www.gov.uk/government/news/digital-overhaul-of-prison-system-to-drive-down-release-errors",
+        "content": "Shocking accidental prisoner releases to be stamped out, as the Government moves to digitalise the archaic paper-based prison system."
+      }
+    ],
+    "sources": [
+      "UK Government Atom Feed (uk)"
+    ]
+  },
+  {
+    "event_id": "98ed0681f2464c3c950d5f982094e1ce",
+    "title": "Government drives forward its 150-day clinical trial target",
+    "category": "politics",
+    "country": "uk",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 48.02,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-15T15:29:29+00:00",
+        "source_name": "UK Government Atom Feed",
+        "article_url": "https://www.gov.uk/government/news/government-drives-forward-its-150-day-clinical-trial-target",
+        "content": "NHS patients get faster access to groundbreaking treatments as government drives forward 150-day clinical trial target"
+      }
+    ],
+    "sources": [
+      "UK Government Atom Feed (uk)"
+    ]
+  },
+  {
+    "event_id": "dfe9451c4050042e5de4045ea2bebd25",
+    "title": "Martyn's Law guidance published to help businesses",
+    "category": "politics",
+    "country": "uk",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 48.02,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-15T14:45:00+00:00",
+        "source_name": "UK Government Atom Feed",
+        "article_url": "https://www.gov.uk/government/news/martyns-law-guidance-published-to-help-businesses",
+        "content": "New guidance published to help organisations and businesses prepare for terrorist threats and protect lives."
+      }
+    ],
+    "sources": [
+      "UK Government Atom Feed (uk)"
+    ]
+  },
+  {
+    "event_id": "0d9c5411b6e1261798ddc86101c05449",
+    "title": "Government cuts electricity bill for 10,000 manufacturers in boost for UK competitiveness",
+    "category": "politics",
+    "country": "uk",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 45.52,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-15T21:30:00+00:00",
+        "source_name": "UK Government Atom Feed",
+        "article_url": "https://www.gov.uk/government/news/government-cuts-electricity-bill-for-10000-manufacturers-in-boost-for-uk-competitiveness",
+        "content": "The Government has announced that electricity bills will be cut by up to 25% for over 10,000 businesses through the British Industrial Competitiveness Scheme."
+      }
+    ],
+    "sources": [
+      "UK Government Atom Feed (uk)"
+    ]
+  },
+  {
+    "event_id": "1d7796f77c22a181395f4133a4a8c1d4",
+    "title": "PM calls social media companies into Downing Street",
+    "category": "politics",
+    "country": "uk",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 45.52,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-15T21:30:00+00:00",
+        "source_name": "UK Government Atom Feed",
+        "article_url": "https://www.gov.uk/government/news/pm-calls-social-media-companies-into-downing-street",
+        "content": "The Prime Minister will say “looking the other way is not an option” as he brings senior leaders of major social media companies – Meta, Snap, Google (YouTube), TikTok and X – to Downing Street today to press for progress on…"
+      }
+    ],
+    "sources": [
+      "UK Government Atom Feed (uk)"
+    ]
+  },
+  {
+    "event_id": "35df0462ae40155500aad9e064630a4e",
+    "title": "We can shape a world where every human being can live with dignity, safety, and choice: UK National Statement at the 59th session of the Commission on Population and Development",
+    "category": "politics",
+    "country": "uk",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 45.52,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-15T18:57:29+00:00",
+        "source_name": "UK Government Atom Feed",
+        "article_url": "https://www.gov.uk/government/speeches/we-can-shape-a-world-where-every-human-being-can-live-with-dignity-safety-and-choice-uk-national-statement-at-the-59th-session-of-the-commission-on-po",
+        "content": "Statement by the UK Youth Delegate, at CPD 59."
+      }
+    ],
+    "sources": [
+      "UK Government Atom Feed (uk)"
+    ]
+  },
+  {
+    "event_id": "73a0e4c6e05daed9ee32896a1912b44d",
+    "title": "Environment Agency secures £2.35m for environmental improvements",
+    "category": "politics",
+    "country": "uk",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 45.52,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-15T16:15:04+00:00",
+        "source_name": "UK Government Atom Feed",
+        "article_url": "https://www.gov.uk/government/news/environment-agency-secures-235m-for-environmental-improvements",
+        "content": "The Environment Agency has secured £2.35 million from Yorkshire Water for environmental improvements following a series of pollution incidents."
+      }
+    ],
+    "sources": [
+      "UK Government Atom Feed (uk)"
+    ]
+  },
+  {
+    "event_id": "87ab6461d4299f3dc75828556b0145c6",
+    "title": "Spring into the Mendip National Nature Reserve",
+    "category": "politics",
+    "country": "uk",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 45.52,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-15T15:52:46+00:00",
+        "source_name": "UK Government Atom Feed",
+        "article_url": "https://www.gov.uk/government/news/spring-into-the-mendip-national-nature-reserve",
+        "content": "April to early June is the prime window to experience the reserve's spectacular wildflowers and wildlife"
+      }
+    ],
+    "sources": [
+      "UK Government Atom Feed (uk)"
+    ]
+  },
+  {
+    "event_id": "90de748cea39173a138aee1d955c68ad",
+    "title": "Asylum hotels close as government scales up use of large sites",
+    "category": "politics",
+    "country": "uk",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 45.52,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-15T15:52:37+00:00",
+        "source_name": "UK Government Atom Feed",
+        "article_url": "https://www.gov.uk/government/news/asylum-hotels-close-as-government-scales-up-use-of-large-sites",
+        "content": "Eleven more asylum hotels have been returned to communities nationwide, with further closures coming soon as the Home Office ends their use for good."
+      }
+    ],
+    "sources": [
+      "UK Government Atom Feed (uk)"
+    ]
+  },
+  {
+    "event_id": "3c7347b722dfb895e06a8b2a739fe8ce",
+    "title": "Recovered appeal: Kings Farm, Parkers Farm Road, Orsett, Essex, RM16 3HX  (ref: 3358576 - 15 April 2026)",
+    "category": "politics",
+    "country": "uk",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 45.52,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-15T14:30:05+00:00",
+        "source_name": "UK Government Atom Feed",
+        "article_url": "https://www.gov.uk/government/publications/recovered-appeal-kings-farm-parkers-farm-road-orsett-essex-rm16-3hx-ref-3358576-15-april-2026",
+        "content": "Decision letter and Inspector’s Report for a recovered appeal."
+      }
+    ],
+    "sources": [
+      "UK Government Atom Feed (uk)"
+    ]
+  },
+  {
+    "event_id": "efb765487512c829cbbd12347aeea06c",
+    "title": "Over 200 community organisations backed to help bridge divides",
+    "category": "politics",
+    "country": "uk",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 45.52,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-15T14:25:59+00:00",
+        "source_name": "UK Government Atom Feed",
+        "article_url": "https://www.gov.uk/government/news/over-200-community-organisations-backed-to-help-bridge-divides",
+        "content": "Organisations boosting unity, trust and togetherness in their communities will receive a share of over £2 million funding"
+      }
+    ],
+    "sources": [
+      "UK Government Atom Feed (uk)"
+    ]
+  },
+  {
+    "event_id": "dbd89bfb390484e5f8231bafd6afafc9",
+    "title": "See the Most Adorable Photos of Baby Elephant Linh Mai, the National Zoo’s Newest Star",
+    "category": "humanities",
+    "country": "us",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 45.02,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-15T17:12:31+00:00",
+        "source_name": "Smithsonian Magazine",
+        "article_url": "https://www.smithsonianmag.com/smithsonian-institution/see-the-most-adorable-photos-of-baby-elephant-linh-mai-the-national-zoos-newest-star-180988532/",
+        "content": "Since her birth in early February, the calf has been growing and beginning to bond with her care team and herd. She will go on view in-person and online starting April 22"
+      }
+    ],
+    "sources": [
+      "Smithsonian Magazine (us)"
+    ]
+  },
+  {
+    "event_id": "2c9b788276110c94b7c37ac072bff2a2",
+    "title": "How Do Different Psychedelics Affect the Brain? Scientists Analyzed More Than 500 Neural Scans to Find Out",
+    "category": "humanities",
+    "country": "us",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 45.02,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-15T17:00:00+00:00",
+        "source_name": "Smithsonian Magazine",
+        "article_url": "https://www.smithsonianmag.com/smart-news/how-do-different-psychedelics-affect-the-brain-scientists-analyzed-more-than-500-neural-scans-to-find-out-180988534/",
+        "content": "A new study suggests that four psychoactive compounds work in surprisingly similar ways, and that they break down the separation between how we think internally and how we perceive the outside world"
+      }
+    ],
+    "sources": [
+      "Smithsonian Magazine (us)"
+    ]
+  },
+  {
+    "event_id": "93fd833a9d85a1dceeee0cab8b66215b",
+    "title": "Colombia Plans to Euthanize Dozens of 'Cocaine Hippos,' Descendants of Animals Brought by Notorious Drug Trafficker Pablo Escobar",
+    "category": "humanities",
+    "country": "us",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 45.02,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-14T21:15:13+00:00",
+        "source_name": "Smithsonian Magazine",
+        "article_url": "https://www.smithsonianmag.com/smart-news/colombia-plans-to-euthanize-dozens-of-cocaine-hippos-descendants-of-animals-brought-by-notorious-drug-trafficker-pablo-escobar-180988548/",
+        "content": "If nothing is done to control the invasive creatures, officials estimate the population could grow to 1,000 animals by 2035. So, they aim to cull about 80 individuals later this year"
+      }
+    ],
+    "sources": [
+      "Smithsonian Magazine (us)"
+    ]
+  },
+  {
+    "event_id": "a8de52d61a826bb50ca166fd2fe3f458",
+    "title": "Born to a Family of Sharecroppers, This Topiary Artist Overcame Discrimination to Become the 'Picasso of Plants'",
+    "category": "humanities",
+    "country": "us",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 45.02,
+    "risk_level": "medium",
+    "timeline": [
+      {
+        "published_at": "2026-04-14T19:44:14+00:00",
+        "source_name": "Smithsonian Magazine",
+        "article_url": "https://www.smithsonianmag.com/smart-news/born-to-a-family-of-sharecroppers-this-topiary-artist-overcame-discrimination-to-become-the-picasso-of-plants-180988544/",
+        "content": "Self-taught artist Pearl Fryar, who died this month at age 86, got his start when he tried to win an award from his local garden club. He ended up becoming a celebrity in the horticultural world"
+      }
+    ],
+    "sources": [
+      "Smithsonian Magazine (us)"
+    ]
+  },
+  {
+    "event_id": "437f00193fbbaa33b2d03b21eba6706e",
+    "title": "Why Does This Newly Discovered 2,000-Year-Old Stone Slab Depict a Roman Emperor as an Egyptian Pharaoh?",
+    "category": "humanities",
+    "country": "us",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 42.52,
+    "risk_level": "low",
+    "timeline": [
+      {
+        "published_at": "2026-04-15T17:56:07+00:00",
+        "source_name": "Smithsonian Magazine",
+        "article_url": "https://www.smithsonianmag.com/smart-news/why-does-this-newly-discovered-2000-year-old-stone-slab-depict-a-roman-emperor-as-an-egyptian-pharaoh-180988549/",
+        "content": "The sandstone monument shows Tiberius standing next to a family of local gods. Archaeologists say the scene illustrates the ruler's role as a leader who upheld cosmic order in Egyptian society"
+      }
+    ],
+    "sources": [
+      "Smithsonian Magazine (us)"
+    ]
+  },
+  {
+    "event_id": "1f62f347a3fd2cb9977c757831986f10",
+    "title": "Does Your Cat Always Leave Behind a Half-Full Bowl of Food? New Research Points to Why Our Furry Friends Can Be Such Picky Eaters",
+    "category": "humanities",
+    "country": "us",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 42.52,
+    "risk_level": "low",
+    "timeline": [
+      {
+        "published_at": "2026-04-15T16:00:00+00:00",
+        "source_name": "Smithsonian Magazine",
+        "article_url": "https://www.smithsonianmag.com/smart-news/does-your-cat-always-leave-behind-a-half-full-bowl-of-food-new-research-points-to-why-our-furry-friends-can-be-such-picky-eaters-180988540/",
+        "content": "A new study suggests that domestic cats get bored of monotonous meals. Switching up their food—or even just nearby scents—could help them join the clean plate club"
+      }
+    ],
+    "sources": [
+      "Smithsonian Magazine (us)"
+    ]
+  },
+  {
+    "event_id": "5e2bca41ad38383f79b331ee0ff02057",
+    "title": "Turtles May Have Been Tasty Snacks for Neanderthals 125,000 Years Ago. But Their Shells Were Probably the Real Prize",
+    "category": "humanities",
+    "country": "us",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 42.52,
+    "risk_level": "low",
+    "timeline": [
+      {
+        "published_at": "2026-04-15T14:46:48+00:00",
+        "source_name": "Smithsonian Magazine",
+        "article_url": "https://www.smithsonianmag.com/smart-news/turtles-may-have-been-tasty-snacks-for-neanderthals-125000-years-ago-but-their-shells-were-probably-the-real-prize-180988550/",
+        "content": "New research based on fragments discovered at the Neumark-Nord site in Germany suggests Neanderthals may have transformed the shells into tools"
+      }
+    ],
+    "sources": [
+      "Smithsonian Magazine (us)"
+    ]
+  },
+  {
+    "event_id": "a72610af6cd27debc7870ec1e79f818b",
+    "title": "Scientists Just Made the Most Complete Map of the Clitoris's Sensory Nerve Network. Here's What They Found",
+    "category": "humanities",
+    "country": "us",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 42.52,
+    "risk_level": "low",
+    "timeline": [
+      {
+        "published_at": "2026-04-15T14:00:00+00:00",
+        "source_name": "Smithsonian Magazine",
+        "article_url": "https://www.smithsonianmag.com/smart-news/scientists-just-made-the-most-complete-map-of-the-clitoris-sensory-nerve-network-heres-what-found-180988463/",
+        "content": "Cultural taboos around female sexuality have hindered research on the organ. But a new study provides pivotal insights that can inform important surgeries and health care"
+      }
+    ],
+    "sources": [
+      "Smithsonian Magazine (us)"
+    ]
+  },
+  {
+    "event_id": "66a022811ed8e8f1bd1da4d76c34de72",
+    "title": "A Rare 1897 Film Discovered in an Old Trunk in Michigan Features the First On-Screen Appearance of a Robot",
+    "category": "humanities",
+    "country": "us",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 42.52,
+    "risk_level": "low",
+    "timeline": [
+      {
+        "published_at": "2026-04-15T13:16:42+00:00",
+        "source_name": "Smithsonian Magazine",
+        "article_url": "https://www.smithsonianmag.com/smart-news/rare-1897-film-discovered-in-an-old-trunk-in-michigan-features-the-first-on-screen-appearance-of-robot-180988547/",
+        "content": "Filmmaker Georges Méliès employed some of his signature special effects techniques to create comedy in \"Gugusse and the Automaton\""
+      }
+    ],
+    "sources": [
+      "Smithsonian Magazine (us)"
+    ]
+  },
+  {
+    "event_id": "d252b07eb9b1884b5cba0ae41d7870a6",
+    "title": "The Hell Creek Formation Is North America's Legendary Boneyard. See the Top Five Discoveries Found in the Iconic Fossil Bed",
+    "category": "humanities",
+    "country": "us",
+    "source_count": 1,
+    "credibility": 31.0,
+    "credibility_detail": {
+      "score_total": 31.0,
+      "source_weight_score": 18.0,
+      "cross_verification_count": 0,
+      "cross_verification_score": 0.0,
+      "timeline_consistency_score": 10.0,
+      "timeline_depth_bonus": 3.0
+    },
+    "impact_score": 42.52,
+    "risk_level": "low",
+    "timeline": [
+      {
+        "published_at": "2026-04-15T11:30:00+00:00",
+        "source_name": "Smithsonian Magazine",
+        "article_url": "https://www.smithsonianmag.com/science-nature/the-hell-creek-formation-is-north-americas-legendary-boneyard-see-the-top-five-discoveries-found-in-the-iconic-fossil-bed-180988545/",
+        "content": "From preserved plants to T. rex, the material found in these Late Cretaceous rocks has resulted in countless breakthroughs for paleontologists"
+      }
+    ],
+    "sources": [
+      "Smithsonian Magazine (us)"
+    ]
+  }
+]

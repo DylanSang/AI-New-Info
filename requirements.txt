@@ -1,0 +1,11 @@
+beautifulsoup4
+feedparser
+python-dateutil
+PyYAML
+requests
+fastapi
+uvicorn
+streamlit
+pandas
+pydeck
+geopy

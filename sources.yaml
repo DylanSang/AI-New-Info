@@ -1,0 +1,69 @@
+sources:
+  - name: AP News
+    type: rss
+    category: politics
+    country: global
+    language: en
+    url: https://apnews.com/hub/apf-topnews?output=xml
+
+  - name: Financial Times World
+    type: rss
+    category: finance
+    country: global
+    language: en
+    url: https://www.ft.com/world?format=rss
+
+  - name: TechCrunch
+    type: rss
+    category: technology
+    country: global
+    language: en
+    url: https://techcrunch.com/feed/
+
+  - name: MIT News
+    type: rss
+    category: technology
+    country: us
+    language: en
+    url: https://news.mit.edu/rss/research
+
+  - name: UK Government Atom Feed
+    type: rss
+    category: politics
+    country: uk
+    language: en
+    url: https://www.gov.uk/search/news-and-communications.atom
+
+  - name: UN News
+    type: rss
+    category: politics
+    country: global
+    language: en
+    url: https://news.un.org/feed/subscribe/en/news/all/rss.xml
+
+  - name: Defense News
+    type: rss
+    category: military
+    country: global
+    language: en
+    url: https://www.defensenews.com/arc/outboundfeeds/rss/category/global/
+
+  - name: The Diplomat
+    type: rss
+    category: military
+    country: global
+    language: en
+    url: https://thediplomat.com/feed/
+
+  - name: Smithsonian Magazine
+    type: rss
+    category: humanities
+    country: us
+    language: en
+    url: https://www.smithsonianmag.com/rss/latest_articles/
+
+settings:
+  request_timeout_seconds: 15
+  max_retries: 2
+  user_agent: GlobalIntelBot/0.1 (+research-use)
+  dedup_similarity_threshold: 0.78
